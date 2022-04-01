@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "AI-Physics Hydrologist"
 title_separator          : "-"
 name                     : &name "Yuan-Heng Wang"
-description              : &description "I am a Ph.D candidate at the department of Hydrology and Atmosphere University of Arizona"
+description              : &description "I am a Ph.D candidate at the Department of Hydrology and Atmosphere University of Arizona"
 url                      : https://YuanHWang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YuanHWang/YuanHWang.github.io"
@@ -45,7 +45,7 @@ staticman:
     date:
       type               : "date"
       options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+        format           : "timestamp-seconds" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
