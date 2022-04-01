@@ -17,30 +17,12 @@ Education
 * Ph.D in Hydrology and Atmospheric Science, The University of Arizona, 2023 (expected) (GPA: 4.00/4.00)
   * Dissertation: A Physics-ML-Hybrid Approach to Modeling Snowpack Dynamics at the Continental Scale (Supervisor: Hoshin V. Gupta)
 
-Working & Teaching Experiences
+Working (Research) Experiences
 ======
 * Jan, 2022 - May, 2022: Arizona Roots for Resilience (R4R) 2022 Spring Cohorts
   * Arizona Institutes for Resilience (AIR), University of Arizona Data Science Institute (DSI)
   * Duties included: Train to Use Open Science and Computational Infrastructure
   * Supervisor: Maliaca Oxnam
-
-* Jan, 2022 - May, 2022: Graduate Teaching Assistant
-  * The University of Arizona, Hydrology and Atmospheric Science
-  * Course: HWRS 170 Earth: Our Watery Home.
-  * Instructor: P.A. Ty Ferré & Bo Guo
-  * Course: ATMO 170 Introduction to Weather and Climate
-  * Instructor: Christopher L. Castro & Dale M. Ward & Steven L. Mullen
-  * Course: ATMO 336 Weather, Climate, and Society
-  * Instructor: Dale M. Ward
-
-* Aug, 2021 - Dec, 2021: Graduate Teaching Assistant
-  * The University of Arizona, Hydrology and Atmospheric Science
-  * Course: HWRS 417/517A Fundamentals of Water Quality
-  * Instructor: Jennifer C. McIntosh
-  * Course: HWRS 203 Arizona Water Issues
-  * Instructor: Martha P.L. Whitaker
-  * Course: HWRS 428/528 Fundamentals: Systems Approach to Hydrologic Modeling.
-  * Instructor: Hoshin V. Gupta
 
 * Jan, 2019 - May, 2021: Graduate Research Assistant
   * The University of Arizona, Hydrology and Atmospheric Science
@@ -71,7 +53,32 @@ Working & Teaching Experiences
   * National Taiwan University, Civil Engineering
   * Duties included: Assiting in Funded Projects
   * Supervisor: Liang-Hsiung Huang
-  
+
+Teaching Experiences
+======
+* Jan, 2022 - May, 2022: Graduate Teaching Assistant
+  * The University of Arizona, Hydrology and Atmospheric Science
+  * Course: HWRS 170 Earth: Our Watery Home.
+  * Instructor: P.A. Ty Ferré & Bo Guo
+  * Course: ATMO 170 Introduction to Weather and Climate
+  * Instructor: Christopher L. Castro & Dale M. Ward & Steven L. Mullen
+  * Course: ATMO 336 Weather, Climate, and Society
+  * Instructor: Dale M. Ward
+
+* Aug, 2021 - Dec, 2021: Graduate Teaching Assistant
+  * The University of Arizona, Hydrology and Atmospheric Science
+  * Course: HWRS 417/517A Fundamentals of Water Quality
+  * Instructor: Jennifer C. McIntosh
+  * Course: HWRS 203 Arizona Water Issues
+  * Instructor: Martha P.L. Whitaker
+  * Course: HWRS 428/528 Fundamentals: Systems Approach to Hydrologic Modeling.
+  * Instructor: Hoshin V. Gupta
+
+* Aug, 2017 - Dec, 2017: Graduate Teaching Assistant
+  * The University of Arizona, Hydrology and Atmospheric Science
+  * Courses: HWRS 170 Earth: Our Watery Home
+  * Instructor: P.A. Ty Ferré
+
 Skills
 ======
 * Language: Taiwanese Mandarin, Taiwanese Hokkien, English 
@@ -113,8 +120,8 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-##Teaching Experience
-##======
+## Teaching Experience
+## ======
 ##  <ul>{% for post in site.teaching %}
 ##    {% include archive-single-cv.html %}
 ##  {% endfor %}</ul>
