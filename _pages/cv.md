@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Taipei, Civil Engineering National Taiwan University, 2011
+* M.S. in Taipei, Hydraulic Engineering National Taiwan University, 2013
+* Ph.D in Tucson, Hydrology and Atmospheric Science University of Arizona, 2023 (expected)
 
 Work experience
 ======
