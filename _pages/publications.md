@@ -5,16 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}   
-You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u> 
-{% endif %}  
-
-{% include base_path %}  
-
-{% for post in site.publications reversed %}   
-{% include archive-single.html %} 
-{% endfor %}
-
 Peer-Reviewed Articles
 ======
 * [7] **Wang, Y.H.**, Gupta, H.V., Zeng, X. and Niu, G.Y., 2022 “Exploring the Potential of Long Short-Term Memory Networks for Improving Understanding of Continental- and Regional-Scale Snowpack Dynamics”. *Water Resources Research*. [Link](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021WR031033)
