@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "2022 Spring Root for Resilence Cohort"
+title                    : "AI-Physics Hydrologist"
 title_separator          : "-"
 name                     : &name "Yuan-Heng Wang"
 description              : &description "I am a Ph.D candidate at the department of Hydrology and Atmosphere University of Arizona"
