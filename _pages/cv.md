@@ -11,32 +11,97 @@ redirect_from:
 
 Education
 ======
-* B.S. in Taipei, Civil Engineering National Taiwan University, 2011
-* M.S. in Taipei, Hydraulic Engineering National Taiwan University, 2013
-* Ph.D in Tucson, Hydrology and Atmospheric Science University of Arizona, 2023 (expected)
+* B.S. in Civil Engineering, National Taiwan University, 2011 (GPA: 3.61/4.00)
+* M.S. in Hydraulic Engineering, National Taiwan University, 2013 (GPA: 3.92/4.30)
+  * Dissertation: The Mountaneous Groundwater and Mass Transport Model (Supervisor: Liang-Hsiung Huang)
+* Ph.D in Hydrology and Atmospheric Science, The University of Arizona, 2023 (expected) (GPA: 4.00/4.00)
+  * Dissertation: A Physics-ML-Hybrid Approach to Modeling Snowpack Dynamics at the Continental Scale (Supervisor: Hoshin V. Gupta)
 
-Work experience
+Working & Teaching Experiences
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan, 2022 - May, 2022: Arizona Roots for Resilience (R4R) 2022 Spring Cohorts
+  * Arizona Institutes for Resilience (AIR), University of Arizona Data Science Institute (DSI)
+  * Duties included: Train to Use Open Science and Computational Infrastructure
+  * Supervisor: Maliaca Oxnam
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan, 2022 - May, 2022: Graduate Teaching Assistant
+  * The University of Arizona, Hydrology and Atmospheric Science
+  * Course: HWRS 170 Earth: Our Watery Home.
+  * Instructor: P.A. Ty Ferré & Bo Guo
+  * Course: ATMO 170 Introduction to Weather and Climate
+  * Instructor: Christopher L. Castro & Dale M. Ward & Steven L. Mullen
+  * Course: ATMO 336 Weather, Climate, and Society
+  * Instructor: Dale M. Ward
+
+* Aug, 2021 - Dec, 2021: Graduate Teaching Assistant
+  * The University of Arizona, Hydrology and Atmospheric Science
+  * Course: HWRS 417/517A Fundamentals of Water Quality
+  * Instructor: Jennifer C. McIntosh
+  * Course: HWRS 203 Arizona Water Issues
+  * Instructor: Martha P.L. Whitaker
+  * Course: HWRS 428/528 Fundamentals: Systems Approach to Hydrologic Modeling.
+  * Instructor: Hoshin V. Gupta
+
+* Jan, 2019 - May, 2021: Graduate Research Assistant
+  * The University of Arizona, Hydrology and Atmospheric Science
+  * Project: Improving National Water Model Snowmelt Runoff Prediction (NOAA-OAR-OWAQ-NA18OAR4590397)
+  * Instrutor: Guo-Yue Niu (PI), Ali Behrangi, Xubin Zeng, Patrick D. Broxton
+
+* Jan, 2018 - Dec, 2018: Graduate Research Assistant
+  * The University of Arizona, Hydrology and Atmospheric Science
+  * Project: Improvement of WRF-Hydro National Water Model architecture and calibration methods for semi-arid environments with complex terrain (NOAA-OAR-OWAQ-2017-2005122)
+  * Instrutor: Christopher L. Castro (PI), Pieter Hazenberg, Hoshin V. Gupta
+
+* Aug, 2017 - Dec, 2017: Graduate Teaching Assistant
+  * The University of Arizona, Hydrology and Atmospheric Science
+  * Courses: HWRS 170 Earth: Our Watery Home
+  * Instructor: P.A. Ty Ferré
+
+* Feb, 2015 - Jun, 2017: Full-Time Research Assistant
+  * National Taiwan University, Civil Engineering
+  * Duties included: Conduct Government & Ministry of Science and Technology Projects
+  * Supervisor: Gene, Jiing-Yun You
+
+* Feb, 2014 - Jan, 2015: Alternative Military Service of Education
+  * National Conscription Agency, Ministry of the Interior, Taiwan (R.O.C)
+  * Duties included: Assting in General Affairs
+  * School: Wanhe Junior High School, Taiwan
+
+* Sep, 2011 - Jun, 2013: Part-Time Graduate Research Assistant
+  * National Taiwan University, Civil Engineering
+  * Duties included: Assiting in Funded Projects
+  * Supervisor: Liang-Hsiung Huang
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Language: Taiwanese Mandarin, Taiwanese Hokkien, English 
+* Platforms: Mac, Unix, Windows
+* Computer Skills: FORTRAN, MATLAB, Python, shell, R, ncl, C++, Java
+* Land Models: Noah-MP, SUMMA
+* Deep Learning Library: Pytorch, Tensorflow, MATLAB
+* Computer Software: HEC-RAS, SRH-2D, SOBEK, AutoCAD, Sketch Up, Blender, RISK
+* Certifications: Professional Hydraulic Engineer (Feb, 2015, Taiwan, R.O.C)
+
+Honor & Scholarship
+======
+* Galileo Circle Scholars: Colleage of Science, The University of Arizona (2022)
+* Graduate Student Teaching Award: Colleage of Science, The University of Arizona (2022)
+* The Roots for Resilience Research Assistantships: Data Science Institute (DSI), The University of Arizona (2022 Spring)
+* Shlomo and Yael Neuman Graduate Scholarship in Hydrology: Department of Hydrology and Atmospheric Science, The University of Arizona (FY 2020-2021).
+* Tuition Scholarship: Department of Hydrology and Atmospheric Science, The University of Arizona (2018 Fall, 2020 Spring).
+* Fellowship Award: Department of Hydrology and Atmospheric Science, The University of Arizona (2018 Fall).
+* Certifications: Professional Hydraulic Engineer (Feb, 2015, Taiwan, R.O.C).
+* 1st Asian Pacific Youth Parliament for Water (APYPW): Youth Participant (Taiwan, R.O.C), Daegu South Korea, July, 2012.
+* 6th World Youth Water Forum: Youth Delegation (Taiwan, R.O.C), Marsellie France, March, 2012.
+* 1st World Youth Parliament for Water (WYPW): Sole Youth Participant (Taiwan, R.O.C), Marsellie France, March, 2012.
 
 Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Conference Proceedings
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -48,7 +113,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Teaching Experience
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
