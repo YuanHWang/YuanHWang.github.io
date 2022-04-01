@@ -101,31 +101,7 @@ Honor & Scholarship
 * 1st Asian Pacific Youth Parliament for Water (APYPW): Youth Participant (Taiwan, R.O.C), Daegu South Korea, July, 2012.
 * 1st World Youth Parliament for Water (WYPW): Sole Youth Participant (Taiwan, R.O.C), Marsellie France, March, 2012.
 * 6th World Youth Water Forum: Youth Delegation (Taiwan, R.O.C), Marsellie France, March, 2012.
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Conference Proceedings
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-##Teaching Experience
-##======
-##<ul>{% for post in site.teaching %}
-##{% include archive-single-cv.html %}
-##{% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Technical Session Committee Member: HydroML Symposium, Penn State University (2022)
