@@ -82,12 +82,12 @@ Teaching Experiences
 Skills
 ======
 * Language: Taiwanese Mandarin, Taiwanese Hokkien, English 
-* Platforms: Mac, Unix, Windows
-* Computer Skills: FORTRAN, MATLAB, Python, shell, R, ncl, C++, Java
+* Platforms: Mac, Linux/Unix, Windows
+* Programming Language: FORTRAN, MATLAB, Python, shell, R, ncl, C++, Java
 * Land Models: Noah-MP, SUMMA
 * Deep Learning Library: Pytorch, Tensorflow, MATLAB
-* Computer Software: HEC-RAS, SRH-2D, SOBEK, AutoCAD, Sketch Up, Blender, RISK
-* Certifications: Professional Hydraulic Engineer (Feb, 2015, Taiwan, R.O.C)
+* Computer Softwares: HEC-RAS, SRH-2D, SOBEK, AutoCAD, Sketch Up, Blender, RISK
+* Professional Certifications: Professional Hydraulic Engineer (Feb, 2015, Taiwan, R.O.C)
 
 Honor & Scholarship
 ======
