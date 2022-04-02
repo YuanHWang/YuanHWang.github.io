@@ -22,7 +22,7 @@ Working (Research) Experiences
 * Jan, 2022 - May, 2022: Arizona Roots for Resilience (R4R) 2022 Spring Cohorts
   * Arizona Institutes for Resilience (AIR), University of Arizona Data Science Institute (DSI)
   * Duties included: Train to Use Open Science and Computational Infrastructure
-  * Supervisor: Maliaca Oxnam
+  * Instrutor: Maliaca Oxnam
 
 * Jan, 2019 - May, 2021: Graduate Research Assistant
   * The University of Arizona, Hydrology and Atmospheric Science
@@ -47,7 +47,7 @@ Working (Research) Experiences
 * Feb, 2014 - Jan, 2015: Alternative Military Service of Education
   * National Conscription Agency, Ministry of the Interior, Taiwan (R.O.C)
   * Duties included: Assting in General Affairs
-  * School: Wanhe Junior High School, Taiwan
+  * Organization: Wanhe Junior High School, Taiwan
 
 * Sep, 2011 - Jun, 2013: Part-Time Graduate Research Assistant
   * National Taiwan University, Civil Engineering
