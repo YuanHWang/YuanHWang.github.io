@@ -8,8 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-This site is constructed since Apr, 2022.
+This site has been started by Yuan-Heng Wang since Apr, 2022.
 
-About Me
-======
-I am a Ph.D. Candidate at the Department of Hydrology and Atmospheric Science, University of Arizona. My research focus is on large-scale snowpack modeling using deep learning and physics-based models. Another focus is to enhance physical-interpretability of AI systems applied to catchment-scale rainfall-runoff modeling.
