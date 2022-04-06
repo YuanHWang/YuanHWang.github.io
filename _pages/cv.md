@@ -78,7 +78,7 @@ Skills
 ======
 * Language: Taiwanese Mandarin, Taiwanese Hokkien, English 
 * Platforms: Mac, Linux/Unix, Windows
-* Programming Language: FORTRAN, MATLAB, Python, shell, R, ncl, C++, Java
+* Programming Language: FORTRAN, MATLAB, Python, shell, ncl, R, C++, Java
 * Land Models: Noah-MP, SUMMA
 * Deep Learning Library: Pytorch, Tensorflow, MATLAB
 * Computer Softwares: HEC-RAS, SRH-2D, SOBEK, AutoCAD, Sketch Up, Blender, RISK
