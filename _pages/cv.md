@@ -51,7 +51,9 @@ Working (Research) Experiences
 
 Teaching Experiences
 ======
-* Jan, 2022 - May, 2022: Graduate Teaching Assistant
+* Graduate Teaching Assistant: The University of Arizona, Hydrology and Atmospheric Science
+
+* Time: Jan, 2022 - May, 2022: 
   * The University of Arizona, Hydrology and Atmospheric Science
   * Course: HWRS 170 Earth: Our Watery Home.
   * Instructor: P.A. Ty Ferré & Bo Guo
@@ -60,8 +62,7 @@ Teaching Experiences
   * Course: ATMO 336 Weather, Climate, and Society
   * Instructor: Dale M. Ward
 
-* Aug, 2021 - Dec, 2021: Graduate Teaching Assistant
-  * The University of Arizona, Hydrology and Atmospheric Science
+* Time: Aug, 2021 - Dec, 2021:
   * Course: HWRS 417/517A Fundamentals of Water Quality
   * Instructor: Jennifer C. McIntosh
   * Course: HWRS 203 Arizona Water Issues
@@ -69,8 +70,7 @@ Teaching Experiences
   * Course: HWRS 428/528 Fundamentals: Systems Approach to Hydrologic Modeling.
   * Instructor: Hoshin V. Gupta
 
-* Aug, 2017 - Dec, 2017: Graduate Teaching Assistant
-  * The University of Arizona, Hydrology and Atmospheric Science
+* Time: Aug, 2017 - Dec, 2017
   * Courses: HWRS 170 Earth: Our Watery Home
   * Instructor: P.A. Ty Ferré
 
