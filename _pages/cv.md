@@ -99,6 +99,6 @@ Honor & Scholarship
 * 1st World Youth Parliament for Water (WYPW): Sole Youth Participant (Taiwan, R.O.C), Marsellie France, March, 2012.
 * 6th World Youth Water Forum: Youth Delegation (Taiwan, R.O.C), Marsellie France, March, 2012.
   
-Service and leadership
+Service
 ======
 * Technical Session Committee Member: HydroML Symposium, Penn State University (2022)
