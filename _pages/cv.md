@@ -34,11 +34,6 @@ Working (Research) Experiences
   * Project: Improvement of WRF-Hydro National Water Model architecture and calibration methods for semi-arid environments with complex terrain (NOAA-OAR-OWAQ-2017-2005122)
   * Instrutor: Christopher L. Castro (PI), Pieter Hazenberg, Hoshin V. Gupta
 
-* Aug, 2017 - Dec, 2017: Graduate Teaching Assistant
-  * The University of Arizona, Hydrology and Atmospheric Science
-  * Courses: HWRS 170 Earth: Our Watery Home
-  * Instructor: P.A. Ty Ferré
-
 * Feb, 2015 - Jun, 2017: Full-Time Research Assistant
   * National Taiwan University, Civil Engineering
   * Duties included: Conduct Government & Ministry of Science and Technology Projects
@@ -87,6 +82,9 @@ Skills
 * Land Models: Noah-MP, SUMMA
 * Deep Learning Library: Pytorch, Tensorflow, MATLAB
 * Computer Softwares: HEC-RAS, SRH-2D, SOBEK, AutoCAD, Sketch Up, Blender, RISK
+
+License
+======
 * Professional Certifications: Professional Hydraulic Engineer (Feb, 2015, Taiwan, R.O.C)
 
 Honor & Scholarship
@@ -97,7 +95,6 @@ Honor & Scholarship
 * Shlomo and Yael Neuman Graduate Scholarship in Hydrology: Department of Hydrology and Atmospheric Science, The University of Arizona (FY 2020-2021).
 * Tuition Scholarship: Department of Hydrology and Atmospheric Science, The University of Arizona (2018 Fall, 2020 Spring).
 * Fellowship Award: Department of Hydrology and Atmospheric Science, The University of Arizona (2018 Fall).
-* Certifications: Professional Hydraulic Engineer (Feb, 2015, Taiwan, R.O.C).
 * 1st Asian Pacific Youth Parliament for Water (APYPW): Youth Participant (Taiwan, R.O.C), Daegu South Korea, July, 2012.
 * 1st World Youth Parliament for Water (WYPW): Sole Youth Participant (Taiwan, R.O.C), Marsellie France, March, 2012.
 * 6th World Youth Water Forum: Youth Delegation (Taiwan, R.O.C), Marsellie France, March, 2012.
