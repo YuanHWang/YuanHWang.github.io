@@ -31,7 +31,7 @@ Working (Research) Experiences
 
 * Jan, 2018 - Dec, 2018: Graduate Research Assistant
   * The University of Arizona, Hydrology and Atmospheric Science
-  * Project: Improvement of WRF-Hydro National Water Model architecture and calibration methods for semi-arid environments with complex terrain (NOAA-OAR-OWAQ-2017-2005122)
+  * Project: Improvement of WRF-Hydro National Water Model Architecture and Calibration Methods for Semi-Arid Environments with Complex Terrain (NOAA-OAR-OWAQ-2017-2005122)
   * Instrutor: Christopher L. Castro (PI), Pieter Hazenberg, Hoshin V. Gupta
 
 * Feb, 2015 - Jun, 2017: Full-Time Research Assistant
