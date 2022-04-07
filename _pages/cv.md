@@ -22,7 +22,7 @@ Working (Research) Experiences
 * Jan, 2022 - May, 2022: Arizona Roots for Resilience (R4R) 2022 Spring Cohorts
   * Arizona Institutes for Resilience (AIR), University of Arizona Data Science Institute (DSI)
   * Duties included: Train to Use Open Science and Computational Infrastructure
-  * Instrutor: Maliaca Oxnam
+  * Instrutor: MS. Maliaca Oxnam
 
 * Jan, 2019 - May, 2021: Graduate Research Assistant
   * The University of Arizona, Hydrology and Atmospheric Science
