@@ -13,31 +13,31 @@ Education
 ======
 * B.S. in Civil Engineering, National Taiwan University, 2011 (GPA: 3.61/4.00)
 * M.S. in Hydraulic Engineering, National Taiwan University, 2013 (GPA: 3.92/4.30)
-  * Dissertation: The Mountaneous Groundwater and Mass Transport Model (Supervisor: Dr. Liang-Hsiung Huang)
+  * Dissertation: The Mountaneous Groundwater and Mass Transport Model (Supervisor: *Dr. Liang-Hsiung Huang*)
 * Ph.D in Hydrology and Atmospheric Science, The University of Arizona, 2023 (expected) (GPA: 4.00/4.00)
-  * Dissertation: A Physics-ML-Hybrid Approach to Modeling Snowpack Dynamics at the Continental Scale (Supervisor: Dr. Hoshin V. Gupta)
+  * Dissertation: A Physics-ML-Hybrid Approach to Modeling Snowpack Dynamics at the Continental Scale (Supervisor: *Dr. Hoshin V. Gupta*)
 
 Working (Research) Experiences
 ======
 * Jan, 2022 - May, 2022: Arizona Roots for Resilience (R4R) 2022 Spring Cohorts
   * Arizona Institutes for Resilience (AIR), University of Arizona Data Science Institute (DSI)
   * Duties included: Train to Use Open Science and Computational Infrastructure
-  * Instrutor: MS. Maliaca Oxnam
+  * Instrutor: *MS. Maliaca Oxnam*
 
 * Jan, 2019 - May, 2021: Graduate Research Assistant
   * The University of Arizona, Hydrology and Atmospheric Science
   * Project: Improving National Water Model Snowmelt Runoff Prediction (NOAA-OAR-OWAQ-NA18OAR4590397)
-  * Instrutor: Dr. Guo-Yue Niu (PI), Dr. Ali Behrangi, Dr. Xubin Zeng, Dr. Patrick D. Broxton
+  * Instrutor: *Dr. Guo-Yue Niu* (PI), *Dr. Ali Behrangi*, *Dr. Xubin Zeng*, *Dr. Patrick D. Broxton*
 
 * Jan, 2018 - Dec, 2018: Graduate Research Assistant
   * The University of Arizona, Hydrology and Atmospheric Science
   * Project: Improvement of WRF-Hydro National Water Model Architecture and Calibration Methods for Semi-Arid Environments with Complex Terrain (NOAA-OAR-OWAQ-2017-2005122)
-  * Instrutor: Dr. Christopher L. Castro (PI), Dr. Pieter Hazenberg, Dr. Hoshin V. Gupta
+  * Instrutor: *Dr. Christopher L. Castro* (PI), *Dr. Pieter Hazenberg*, *Dr. Hoshin V. Gupta*
 
 * Feb, 2015 - Jun, 2017: Full-Time Research Assistant
   * National Taiwan University, Civil Engineering
   * Duties included: Conduct Government & Ministry of Science and Technology Projects
-  * Supervisor: Dr. Gene, Jiing-Yun You
+  * Supervisor: *Dr. Gene, Jiing-Yun You*
 
 * Feb, 2014 - Jan, 2015: Alternative Military Service of Education
   * National Conscription Agency, Ministry of the Interior, Taiwan (R.O.C)
@@ -47,7 +47,7 @@ Working (Research) Experiences
 * Sep, 2011 - Jun, 2013: Part-Time Graduate Research Assistant
   * National Taiwan University, Civil Engineering
   * Duties included: Assiting in Funded Projects
-  * Supervisor: Dr. Liang-Hsiung Huang
+  * Supervisor: *Dr. Liang-Hsiung Huang*
 
 Teaching Experiences
 ======
@@ -56,23 +56,23 @@ Teaching Experiences
 * Time: Jan, 2022 - May, 2022: 
   * The University of Arizona, Hydrology and Atmospheric Science
   * Course: HWRS 170 Earth: Our Watery Home.
-  * Instructor: Dr. P.A. Ty Ferré & Dr. Bo Guo
+  * Instructor: *Dr. P.A. Ty Ferré* & *Dr. Bo Guo*
   * Course: ATMO 170 Introduction to Weather and Climate
-  * Instructor: Dr. Christopher L. Castro & Dr. Dale M. Ward & Dr. Steven L. Mullen
+  * Instructor: *Dr. Christopher L. Castro* & *Dr. Dale M. Ward* & *Dr. Steven L. Mullen*
   * Course: ATMO 336 Weather, Climate, and Society
-  * Instructor: Dr. Dale M. Ward
+  * Instructor: *Dr. Dale M. Ward*
 
 * Time: Aug, 2021 - Dec, 2021:
   * Course: HWRS 417/517A Fundamentals of Water Quality
-  * Instructor: Dr. Jennifer C. McIntosh
+  * Instructor: *Dr. Jennifer C. McIntosh*
   * Course: HWRS 203 Arizona Water Issues
-  * Instructor: Dr. Martha P.L. Whitaker
+  * Instructor: *Dr. Martha P.L. Whitaker*
   * Course: HWRS 428/528 Fundamentals: Systems Approach to Hydrologic Modeling.
-  * Instructor: Dr. Hoshin V. Gupta
+  * Instructor: *Dr. Hoshin V. Gupta*
 
 * Time: Aug, 2017 - Dec, 2017
   * Courses: HWRS 170 Earth: Our Watery Home
-  * Instructor: Dr. P.A. Ty Ferré
+  * Instructor: *Dr. P.A. Ty Ferré*
 
 Skills
 ======
