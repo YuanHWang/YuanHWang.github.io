@@ -17,7 +17,7 @@ Peer-Reviewed Articles
 
 Conference Proceedings
 ======
-* [18] **Wang, Y.H.**, and Gupta, H.V. (2022), “Bridging the Gap between Physical-Conceptual Modeling and Machine Learning for Catchment-Scale Rainfall-Runoff Modeling”, *HydroML-Symposium, May 16-18, State College, PA.* (Lightening Talk & Poster)
+* [18] **Wang, Y.H.**, and Gupta, H.V. (2022), “Bridging the Gap between Physical-Conceptual Modeling and Machine Learning for Catchment-Scale Rainfall-Runoff Modeling”, *HydroML-Symposium, May 18-20, State College, PA.* (Lightening Talk & Poster)
 * [17] **Wang, Y.H.**, and Gupta, H.V. (2021), “Exploring the Integration of Process-Based and Deep Learning Approaches for Modeling Snowpack Dynamics”, *AGU Fall Meeting, Dec 13-17, New Orleans, LA.* (Virtual Poster)
 * [16] **Wang, Y.H.**, Gupta, H.V., Zeng, X. and Niu, G.Y. (2021), “Hypothesis Testing Using Long Short-Term Memory Networks for Improving Understanding of Continental- and Regional-Scale Snowpack Dynamics”, *AGU Fall Meeting, Dec 13-17, New Orleans, LA.* (Virtual Poster)
 * [15] **Wang, Y.H.**, Gupta, H.V., Zeng, X. and Niu, G.Y. (2021), “Benchmarking Regional Long Short-Term Memory Networks against Physically Based SNOW17 Models Applied to Large-Scale Pixel Dataset”, *Los Alamos Arizona Days, May 17-18.* (Virtual Poster)
