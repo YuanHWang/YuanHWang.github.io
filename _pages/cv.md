@@ -100,4 +100,4 @@ Honor & Scholarship
   
 Service
 ======
-* Technical Session Committee Member: HydroML Symposium, Penn State University (2022)
+* Technical Session Committee Member: Hydro-ML Symposium, The Pennsylvania State University (2022)
