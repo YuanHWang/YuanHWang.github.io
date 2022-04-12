@@ -88,8 +88,8 @@ License
 
 Honor & Scholarship
 ======
-* Galileo Circle Scholars: Colleage of Science, The University of Arizona (2022)
-* Graduate Student Teaching Award: Colleage of Science, The University of Arizona (2022)
+* Galileo Circle Scholars: College of Science, The University of Arizona (2022)
+* Graduate Student Teaching Award: College of Science, The University of Arizona (2022)
 * The Roots for Resilience Research Assistantships: Data Science Institute (DSI), The University of Arizona (2022 Spring)
 * Shlomo and Yael Neuman Graduate Scholarship in Hydrology: Department of Hydrology and Atmospheric Science, The University of Arizona (FY 2020-2021).
 * Tuition Scholarship: Department of Hydrology and Atmospheric Science, The University of Arizona (2018 Fall, 2020 Spring).
