@@ -7,7 +7,7 @@ author_profile: true
 
 Peer-Reviewed Articles
 ======
-* [7] **Wang, Y.H.**, Gupta, H.V., Zeng, X. and Niu, G.Y., 2022 “Exploring the Potential of Long Short-Term Memory Networks for Improving Understanding of Continental- and Regional-Scale Snowpack Dynamics”. *Water Resources Research*. [Link](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021WR031033)
+* [7] **Wang, Y.H.**, Gupta, H.V., Zeng, X. and Niu, G.Y., 2022 “Exploring the Potential of Long Short-Term Memory Networks for Improving Understanding of Continental- and Regional-Scale Snowpack Dynamics”. *Water Resources Research, 58(3) doi:http://dx.doi.org/10.1029/2021WR031033*. [Link](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021WR031033)
 * [6] Liang, C.Y., **Wang, Y.H.**, You, G.J.Y., Chen, P.C. and Lo, E., 2021. Evaluating the Cost of Failure Risk: A Case Study of the Kang-Wei-Kou Stream Diversion Project. *Water, 13(20), p.2881.*(Contribute equally with Liang, C.Y.). [Link](https://www.mdpi.com/2073-4441/13/20/2881)
 * [5] Lahmers, T.M., Hazenberg, P., Gupta, H., Castro, C., Gochis, D., Dugger, A., Yates, D., Read, L., Karsten, L. and **Wang, Y.H.**, 2021. Evaluation of NOAA National Water Model Parameter Calibration in Semiarid Environments Prone to Channel Infiltration. *Journal of Hydrometeorology, 22(11), pp.2939-2969.* [Link](https://journals.ametsoc.org/view/journals/hydr/22/11/JHM-D-20-0198.1.xml)
 * [4] **Wang, Y.H.**, Chu, C.C., You, G.J.Y., Gupta, H.V. and Chiu, P.H., 2020. Evaluating Uncertainty in Fluvial Geomorphic Response to Dam Removal. *Journal of Hydrologic Engineering, 25(6), p.04020022.*  [Link](https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29HE.1943-5584.0001917)
