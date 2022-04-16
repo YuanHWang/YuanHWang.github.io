@@ -41,12 +41,12 @@ Working (Research) Experiences
 
 * Feb, 2014 - Jan, 2015: Alternative Military Service of Education
   * National Conscription Agency, Ministry of the Interior, Taiwan (R.O.C)
-  * Duties included: Assting in General Affairs
+  * Duties included: Assisting in General Affairs
   * Organization: Wanhe Junior High School, Taiwan
 
 * Sep, 2011 - Jun, 2013: Part-Time Graduate Research Assistant
   * National Taiwan University, Civil Engineering
-  * Duties included: Assiting in Funded Projects
+  * Duties included: Assisting in Funded Projects
   * Supervisor: *Dr. Liang-Hsiung Huang*
 
 Teaching Experiences
@@ -100,4 +100,4 @@ Honor & Scholarship
   
 Service
 ======
-* Technical Session Committee Member: Hydro-ML Symposium, The Pennsylvania State University (2022)
+* Technical Committee Member: Hydro-ML Symposium, The Pennsylvania State University (2022)
