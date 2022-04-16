@@ -80,7 +80,7 @@ Skills
 * Platforms: Mac, Linux/Unix, Windows
 * Programming Language: FORTRAN, MATLAB, Python, shell, ncl, R, C++, Java
 * Land Models: Noah-MP, SUMMA
-* Deep Learning Library: Pytorch, Tensorflow, MATLAB
+* Deep Learning Library: Pytorch, Keras, Tensorflow, MATLAB
 
 License
 ======
@@ -96,7 +96,7 @@ Honor & Scholarship
 * Fellowship Award: Department of Hydrology and Atmospheric Science, The University of Arizona (2018 Fall).
 * 1st Asian Pacific Youth Parliament for Water (APYPW): Youth Participant (Taiwan, R.O.C), Daegu South Korea, July, 2012.
 * 1st World Youth Parliament for Water (WYPW): Sole Youth Participant (Taiwan, R.O.C), Marsellie France, March, 2012.
-* 6th World Youth Water Forum: Youth Delegation (Taiwan, R.O.C), Marsellie France, March, 2012.
+* 6th World Water Forum: Youth Delegation (Taiwan, R.O.C), Marsellie France, March, 2012.
   
 Service
 ======
