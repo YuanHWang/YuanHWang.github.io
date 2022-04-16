@@ -19,7 +19,7 @@ Conference Proceedings
 ======
 * [24] **Wang, Y.H.**, and Gupta, H.V. (2022), “Bridging the Gap between Physical-Conceptual Modeling and Machine Learning for Catchment-Scale Rainfall-Runoff Modeling”, *HydroML-Symposium, May 18-20, State College, PA.* (Lightening Talk & Poster)
 * [23] **Wang, Y.H.**, and Gupta, H.V. (2022), “Bridging the Gap between Physical-Conceptual Modeling and Machine Learning for Catchment-Scale Rainfall-Runoff Modeling”, *EarthWeek Research Symposium, Mar 21-25, University of Arizona, Tucson.* (Oral)
-* [22] **Wang, Y.H.**, and Gupta, H.V. (2021), “Exploring the Integration of Process-Based and Deep Learning Approaches for Modeling Snowpack Dynamics”, *AGU Fall Meeting, Dec 13-17, New Orleans, LA.* (Virtual Poster)
+* [22] Gupta, H.V., and **Wang, Y.H.** (2021), “Exploring the Integration of Process-Based and Deep Learning Approaches for Modeling Snowpack Dynamics”, *AGU Fall Meeting, Dec 13-17, New Orleans, LA.* (Virtual Poster)
 * [21] **Wang, Y.H.**, Gupta, H.V., Zeng, X. and Niu, G.Y. (2021), “Hypothesis Testing Using Long Short-Term Memory Networks for Improving Understanding of Continental- and Regional-Scale Snowpack Dynamics”, *AGU Fall Meeting, Dec 13-17, New Orleans, LA.* (Virtual Poster)
 * [20] **Wang, Y.H.**, Gupta, H.V., Zeng, X. and Niu, G.Y. (2021), “Hypothesis Testing Using Long Short-Term Memory Networks (LSTMs) Applied to Large Pixel-Scale Snowpack Dataset”, *The 3rd NOAA Workshop on Leveraging AI in Environmental Sciences, Sep 13-17.* (Virtual Poster)
 * [19] **Wang, Y.H.**, Gupta, H.V., Zeng, X. and Niu, G.Y. (2021), “Benchmarking Regional Long Short-Term Memory Networks against Physically Based SNOW17 Models Applied to Large-Scale Pixel Dataset”, *Los Alamos Arizona Days, May 17-18.* (Virtual Poster)
