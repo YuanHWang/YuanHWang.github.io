@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in Civil Engineering, National Taiwan University, 2011 (GPA: 3.61/4.00)
-* M.S. in Hydraulic Engineering, National Taiwan University, 2013 (GPA: 3.92/4.30)
-  * Dissertation: The Mountaneous Groundwater and Mass Transport Model (Supervisor: *Dr. Liang-Hsiung Huang*)
 * Ph.D in Hydrology and Atmospheric Science, The University of Arizona, 2023 (expected) (GPA: 4.00/4.00)
   * Dissertation: A Physics-ML-Hybrid Approach to Modeling Snowpack Dynamics at the Continental Scale (Supervisor: *Dr. Hoshin V. Gupta*)
+* M.S. in Hydraulic Engineering, National Taiwan University, 2013 (GPA: 3.92/4.30)
+  * Dissertation: The Mountaneous Groundwater and Mass Transport Model (Supervisor: *Dr. Liang-Hsiung Huang*)
+* B.S. in Civil Engineering, National Taiwan University, 2011 (GPA: 3.61/4.00)
 
 Working (Research) Experiences
 ======
