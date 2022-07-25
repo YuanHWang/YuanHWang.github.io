@@ -53,12 +53,12 @@ Teaching Experiences
 ======
 * Graduate Teaching Assistant: The University of Arizona, Hydrology and Atmospheric Science
 
-* Time: Jul, 2022 - Aug, 2022 (Acting Professor): 
+* Jul, 2022 - Aug, 2022 (Acting Professor): 
   * Instructor: *Dr. Eyad Atallah* & *Dr. Brittany Ciancarelli* 
   * Support Staff: *Mr. Ben Mitchell*
   * Course: ATMO 170 Introduction to Weather and Climate
   
-* Time: Jan, 2022 - May, 2022: 
+* Jan, 2022 - May, 2022: 
   * The University of Arizona, Hydrology and Atmospheric Science
   * Course: HWRS 170 Earth: Our Watery Home.
   * Instructor: *Dr. P.A. Ty Ferré* & *Dr. Bo Guo*
@@ -67,7 +67,7 @@ Teaching Experiences
   * Course: ATMO 336 Weather, Climate, and Society
   * Instructor: *Dr. Dale M. Ward*
 
-* Time: Aug, 2021 - Dec, 2021:
+* Aug, 2021 - Dec, 2021:
   * Course: HWRS 417/517A Fundamentals of Water Quality
   * Instructor: *Dr. Jennifer C. McIntosh*
   * Course: HWRS 203 Arizona Water Issues
@@ -75,7 +75,7 @@ Teaching Experiences
   * Course: HWRS 428/528 Fundamentals: Systems Approach to Hydrologic Modeling.
   * Instructor: *Dr. Hoshin V. Gupta*
 
-* Time: Aug, 2017 - Dec, 2017
+* Aug, 2017 - Dec, 2017
   * Courses: HWRS 170 Earth: Our Watery Home
   * Instructor: *Dr. P.A. Ty Ferré*
 
