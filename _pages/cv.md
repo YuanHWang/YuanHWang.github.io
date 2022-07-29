@@ -93,10 +93,11 @@ License
 
 Honor & Scholarship
 ======
+* John and Margaret Harshbarger Fellowship: Department of Hydrology and Atmospheric Science, The University of Arizona (FY 2022-2023).
 * Galileo Circle Scholars: College of Science, The University of Arizona (2022)
-* Graduate Student Teaching Award: Department of Hydrology and Atmospheric Science, The University of Arizona (2022)
+* Graduate Student Teaching Award: College of Science, The University of Arizona (2022)
 * The Roots for Resilience Research Assistantships: Data Science Institute (DSI), The University of Arizona (2022 Spring)
-* Shlomo and Yael Neuman Graduate Scholarship in Hydrology: Department of Hydrology and Atmospheric Science, The University of Arizona (FY 2020-2021).
+* Shlomo and Yael Neuman Hydrology Endowment: Department of Hydrology and Atmospheric Science, The University of Arizona (FY 2020-2021).
 * Tuition Scholarship: Department of Hydrology and Atmospheric Science, The University of Arizona (2018 Fall, 2020 Spring).
 * Fellowship Award: Department of Hydrology and Atmospheric Science, The University of Arizona (2018 Fall).
 * 1st Asian Pacific Youth Parliament for Water (APYPW): Youth Participant (Taiwan, R.O.C), Daegu South Korea, July, 2012.
