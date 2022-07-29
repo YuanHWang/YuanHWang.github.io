@@ -17,6 +17,7 @@ Peer-Reviewed Articles
 
 Conference Proceedings
 ======
+* [25] **Wang, Y.H.**, and Gupta, H.V. (2022), “Developing Catchment-Scale Physical-Conceptual Rainfall-Runoff Models Using Machine-Learning”, *AGU Fall Meeting, Dec 12-16, Chicago, IL.* 
 * [24] **Wang, Y.H.**, and Gupta, H.V. (2022), “Bridging the Gap between Physical-Conceptual Modeling and Machine Learning for Catchment-Scale Rainfall-Runoff Modeling”, *HydroML-Symposium, May 18-20, State College, PA.* (Lightening Talk & Poster)
 * [23] **Wang, Y.H.**, and Gupta, H.V. (2022), “Bridging the Gap between Physical-Conceptual Modeling and Machine Learning for Catchment-Scale Rainfall-Runoff Modeling”, *EarthWeek Research Symposium, Mar 21-25, University of Arizona, Tucson.* (Oral)
 * [22] Gupta, H.V., and **Wang, Y.H.** (2021), “Exploring the Integration of Process-Based and Deep Learning Approaches for Modeling Snowpack Dynamics”, *AGU Fall Meeting, Dec 13-17, New Orleans, LA.* (Virtual Poster)
