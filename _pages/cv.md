@@ -52,14 +52,17 @@ Working (Research) Experiences
 Teaching Experiences
 ======
 * Graduate Teaching Assistant: The University of Arizona, Hydrology and Atmospheric Science
+* Aug, 2022 - Dec, 2022: 
+  * Course: HWRS 350 Principles of Hydrology
+  * Instructor: *Dr. Martha P.L. Whitaker* 
+  * Preceptor: *Mr. Jonathan H. Hasenstab*
 
 * Jul, 2022 - Aug, 2022 (Acting Professor): 
+  * Course: ATMO 170 Introduction to Weather and Climate
   * Instructor: *Dr. Eyad Atallah* & *Dr. Brittany Ciancarelli* 
   * Support Staff: *Mr. Ben Mitchell*
-  * Course: ATMO 170 Introduction to Weather and Climate
-  
+
 * Jan, 2022 - May, 2022: 
-  * The University of Arizona, Hydrology and Atmospheric Science
   * Course: HWRS 170 Earth: Our Watery Home.
   * Instructor: *Dr. P.A. Ty Ferré* & *Dr. Bo Guo*
   * Course: ATMO 170 Introduction to Weather and Climate
