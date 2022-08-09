@@ -101,8 +101,8 @@ Honor & Scholarship
 * Graduate Student Teaching Award: College of Science, The University of Arizona (2022)
 * The Roots for Resilience Research Assistantships: Data Science Institute (DSI), The University of Arizona (2022 Spring)
 * Shlomo and Yael Neuman Hydrology Endowment: Department of Hydrology and Atmospheric Science, The University of Arizona (FY 2020-2021).
-* Tuition Scholarship: Department of Hydrology and Atmospheric Science, The University of Arizona (2018 Fall, 2020 Spring, 2022 Spring).
-* Fellowship Award: Department of Hydrology and Atmospheric Science, The University of Arizona (2018 Fall, 2022 Spring).
+* Tuition Scholarship: Department of Hydrology and Atmospheric Science, The University of Arizona (2018 Fall, 2020 Spring, 2022 Fall).
+* Fellowship Award: Department of Hydrology and Atmospheric Science, The University of Arizona (2018 Fall, 2022 Fall).
 * 1st Asian Pacific Youth Parliament for Water (APYPW): Youth Participant (Taiwan, R.O.C), Daegu South Korea, July, 2012.
 * 1st World Youth Parliament for Water (WYPW): Sole Youth Participant (Taiwan, R.O.C), Marsellie France, March, 2012.
 * 6th World Water Forum: Youth Delegation (Taiwan, R.O.C), Marsellie France, March, 2012.
