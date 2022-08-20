@@ -19,6 +19,10 @@ Education
 
 Working (Research) Experiences
 ======
+* Aug, 2022 - May, 2023: Outreach Assistant
+  * The University of Arizona, Hydrology and Atmospheric Science
+  * Instrutor: *Dr. Thomas Mexiner*
+
 * Jan, 2022 - May, 2022: Arizona Roots for Resilience (R4R) 2022 Spring Cohorts
   * Arizona Institutes for Resilience (AIR), University of Arizona Data Science Institute (DSI)
   * Duties included: Train to Use Open Science and Computational Infrastructure
@@ -53,9 +57,11 @@ Teaching Experiences
 ======
 * Graduate Teaching Assistant: The University of Arizona, Hydrology and Atmospheric Science
 * Aug, 2022 - Dec, 2022: 
-  * Course: HWRS 350 Principles of Hydrology
+  * Course: HWRS 350 Principles of Hydrology (Include HWRS 349A Online Session)
   * Instructor: *Dr. Martha P.L. Whitaker* 
   * Preceptor: *Mr. Jonathan H. Hasenstab*
+  * Course: HWRS 642 Advanced Hydrological Modeling (Learning Models with Data)
+  * Instructor: *Dr. Hoshin V. Gupta* 
 
 * Jul, 2022 - Aug, 2022 (Acting Professor): 
   * Course: ATMO 170 Introduction to Weather and Climate
@@ -101,8 +107,8 @@ Honor & Scholarship
 * Graduate Student Teaching Award: College of Science, The University of Arizona (2022)
 * The Roots for Resilience Research Assistantships: Data Science Institute (DSI), The University of Arizona (2022 Spring)
 * Shlomo and Yael Neuman Hydrology Endowment: Department of Hydrology and Atmospheric Science, The University of Arizona (FY 2020-2021).
-* Tuition Scholarship: Department of Hydrology and Atmospheric Science, The University of Arizona (2018 Fall, 2020 Spring, 2022 Fall).
-* Fellowship Award: Department of Hydrology and Atmospheric Science, The University of Arizona (2018 Fall, 2022 Fall).
+* Tuition Scholarship: Department of Hydrology and Atmospheric Science, The University of Arizona (2018 Fall, 2020 Spring).
+* Fellowship Award: Department of Hydrology and Atmospheric Science, The University of Arizona (2018 Fall).
 * 1st Asian Pacific Youth Parliament for Water (APYPW): Youth Participant (Taiwan, R.O.C), Daegu South Korea, July, 2012.
 * 1st World Youth Parliament for Water (WYPW): Sole Youth Participant (Taiwan, R.O.C), Marsellie France, March, 2012.
 * 6th World Water Forum: Youth Delegation (Taiwan, R.O.C), Marsellie France, March, 2012.
@@ -110,3 +116,9 @@ Honor & Scholarship
 Service
 ======
 * Technical Committee Member: Hydro-ML Symposium, The Pennsylvania State University (2022)
+
+Review Service
+======
+* Journal of Hydrology (2017)
+* Water Resources Research (2020,2021,2022)
+* Journal of Hydrometeorology (2022)
