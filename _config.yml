@@ -109,7 +109,8 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          :  "https://twitter.com/YuanH_Wang"
+  linkedin         :  "https://www.linkedin.com/in/yuanhengwang/"  
   vine             :
   weibo            :
   xing             :
@@ -117,7 +118,7 @@ author:
   wikipedia        :
   email            : yhwang0730@gmail.com
   phone            : +1 (520)-358-4446
-
+  
 # Reading Files
 include:
   - .htaccess
