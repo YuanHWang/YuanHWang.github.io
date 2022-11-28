@@ -21,7 +21,7 @@ Working (Research) Experiences
 ======
 * Aug, 2022 - May, 2023: Outreach Assistant
   * The University of Arizona, Hydrology and Atmospheric Science
-  * Instrutor: *Dr. Thomas Mexiner*
+  * Instrutor: *Dr. Thomas Meixner*
 
 * Jan, 2022 - May, 2022: Arizona Roots for Resilience (R4R) 2022 Spring Cohorts
   * Arizona Institutes for Resilience (AIR), University of Arizona Data Science Institute (DSI)
