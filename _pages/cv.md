@@ -116,6 +116,7 @@ Honor & Scholarship
 Service
 ======
 * Technical Committee Member: Hydro-ML Symposium, The Pennsylvania State University (2022)
+* Planning Team Member: El Día del Agua y la Atmósfera, The Univerity of Arizona (2023)
 
 Review Service
 ======
