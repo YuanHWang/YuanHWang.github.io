@@ -114,7 +114,7 @@ Honor & Scholarship
 * Tuition Scholarship: Department of Hydrology and Atmospheric Science, The University of Arizona (2018 Fall, 2020 Spring).
 * Fellowship Award: Department of Hydrology and Atmospheric Science, The University of Arizona (2018 Fall).
 * 1st Asian Pacific Youth Parliament for Water (APYPW): Youth Participant (Taiwan, R.O.C), Daegu South Korea, July, 2012.
-* 1st World Youth Parliament for Water (WYPW): Sole Youth Participant (Taiwan, R.O.C), Marsellie France, March, 2012.
+* 1st World Youth Parliament for Water (WYPW): Youth Participant (Taiwan, R.O.C), Marsellie France, March, 2012.
 * 6th World Water Forum: Youth Delegation (Taiwan, R.O.C), Marsellie France, March, 2012.
   
 Service
