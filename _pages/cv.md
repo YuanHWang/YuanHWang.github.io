@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Hydrology and Atmospheric Science, The University of Arizona, 2023 (expected) (GPA: 4.00/4.00)
+* Ph.D. in Hydrology and Atmospheric Science, The University of Arizona, 2023 (expected) (GPA: 4.00/4.00)
   * Dissertation: A Physics-ML-Hybrid Approach to Modeling Snowpack Dynamics at the Continental Scale 
   * Supervisor: *Dr. Hoshin V. Gupta*
   * Committee Members: *Dr. P.A. Ty Ferré*, *Dr. Xubin Zeng*, *Dr. Jennifer Guohong Duan*
