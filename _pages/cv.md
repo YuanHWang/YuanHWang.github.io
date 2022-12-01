@@ -120,6 +120,6 @@ Service
 
 Review Service
 ======
-* Journal of Hydrology (2017)
-* Water Resources Research (2020,2021,2022)
 * Journal of Hydrometeorology (2022)
+* Water Resources Research (2020,2021,2022)
+* Journal of Hydrology (2017)
