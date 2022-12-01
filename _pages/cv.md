@@ -15,7 +15,7 @@ Education
   * Dissertation: A Physics-ML-Hybrid Approach to Modeling Snowpack Dynamics at the Continental Scale 
   * Supervisor: *Dr. Hoshin V. Gupta*
   * Committee Members: *Dr. P.A. Ty Ferré*, *Dr. Xubin Zeng*, *Dr. Jennifer Guohong Duan*
-* M.S. in Hydraulic Engineering, National Taiwan University, 2013 (GPA: 3.92/4.30)
+* M.S. in Civil Engineering, Hydraulic Engineering Division, National Taiwan University, 2013 (GPA: 3.92/4.30)
   * Dissertation: The Mountaneous Groundwater and Mass Transport Model 
   * Supervisor: *Dr. Liang-Hsiung Huang*
   * Committee Members: *Dr. Jinn-Chuang Yang*, *Dr. Chung‐Hong Song*, *Dr. Tung-Lin Tsai*
