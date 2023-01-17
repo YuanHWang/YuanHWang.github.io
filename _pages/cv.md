@@ -59,12 +59,11 @@ Working (Research) Experiences
 
 Teaching Experiences
 ======
-* Graduate Teaching Assistant (Acting Professor): The University of Arizona, Hydrology and Atmospheric Science
-* Jan, 2023 - May, 2023: 
-  * Course: ATMO 170 Introduction to Weather and Climate
-  * Instructor: *Dr. Eyad Atallah*
-
 * Graduate Teaching Assistant: The University of Arizona, Hydrology and Atmospheric Science
+* Jan, 2023 - May, 2023 (Acting Professor): 
+  * Course: ATMO 170 Introduction to Weather and Climate
+  * Support Instructor: *Dr. Eyad Atallah*
+
 * Aug, 2022 - Dec, 2022: 
   * Course: HWRS 350 Principles of Hydrology (Include HWRS 349A Online Session)
   * Instructor: *Dr. Martha P.L. Whitaker* 
