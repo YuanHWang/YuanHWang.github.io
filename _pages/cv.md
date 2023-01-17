@@ -25,7 +25,7 @@ Working (Research) Experiences
 ======
 * Aug, 2022 - May, 2023: Outreach Assistant
   * The University of Arizona, Hydrology and Atmospheric Science
-  * Instrutor: *Dr. Thomas Meixner*
+  * Instrutor: *Dr. Thomas Meixner* & *Dr. Christopher L. Castro*
 
 * Jan, 2022 - May, 2022: Arizona Roots for Resilience (R4R) 2022 Spring Cohorts
   * Arizona Institutes for Resilience (AIR), University of Arizona Data Science Institute (DSI)
@@ -59,6 +59,11 @@ Working (Research) Experiences
 
 Teaching Experiences
 ======
+* Graduate Teaching Assistant (Acting Professor): The University of Arizona, Hydrology and Atmospheric Science
+* Jan, 2023 - May, 2023: 
+  * Course: ATMO 170 Introduction to Weather and Climate
+  * Instructor: *Dr. Eyad Atallah*
+
 * Graduate Teaching Assistant: The University of Arizona, Hydrology and Atmospheric Science
 * Aug, 2022 - Dec, 2022: 
   * Course: HWRS 350 Principles of Hydrology (Include HWRS 349A Online Session)
