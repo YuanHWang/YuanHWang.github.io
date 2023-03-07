@@ -123,8 +123,9 @@ Honor & Scholarship
   
 Service
 ======
+* Co-Organizers: 2nd HydroML Symposium, Lawrence Berkeley National Laboratory (2023)
 * Planning Team Member: El Día del Agua y la Atmósfera, The Univerity of Arizona (2023)
-* Technical Committee Member: Hydro-ML Symposium, The Pennsylvania State University (2022)
+* Technical Committee Member: 1st HydroML Symposium, The Pennsylvania State University (2022)
 
 Review Service
 ======
