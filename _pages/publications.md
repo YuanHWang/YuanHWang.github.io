@@ -15,6 +15,11 @@ Peer-Reviewed Articles
 * [2] **Wang, Y.H.**, Hsu, Y.C., You, G. J.Y., Yen, C.L., and Wang, C.M., 2018 “Flood Inundation Assessment Considering Hydrologic Conditions and Functionalities of Hydraulic Facilities.” *Water, 10, 1879.*  [Link](https://www.mdpi.com/2073-4441/10/12/1879)
 * [1] Chen, P.C., **Wang, Y.H.**, You, G.J.Y. and Wei, C.C., 2017. “Comparison of methods for non-stationary hydrologic frequency analysis: case study using annual maximum daily precipitation in Taiwan.” *Journal of hydrology, 545, pp.197-211.*  [Link](https://www.sciencedirect.com/science/article/abs/pii/S0022169416307909)
 
+Invited Talk
+======
+* [2] Bridging the Gap between Physical-Conceptual Modeling and Machine Learning for Modeling Hydrologic Systems, Water Resource Science and Engineering Group at Oak Ridge National Laboratory, Oak Ridge, TN, USA, 03/09/2023* (Invited Webinar Talk)
+* [1] A Mass-Conserving-Perceptron for Machine-Learning-Based Modeling of Hydrologic Systems, Research Group lead by Professor Chaopeng Shen, at Civil and Environmental Engineering, The Pennsylvania State University, State College, PA, USA, 02/10/2023* (Invited Webinar Talk)
+
 Conference Proceedings
 ======
 * [27] **Wang, Y.H.**, and Gupta, H.V. (2023), “Comparison of Physics-Informed Mass-Conserving Perceptron against Data-Driven Neural Network and Physical-Conceptual Models in Modeling the Hydrologic Systems”, *EarthWeek Research Symposium, Mar 27-31, University of Arizona, Tucson.* (Oral)
