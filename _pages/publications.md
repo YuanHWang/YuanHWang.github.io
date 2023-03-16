@@ -17,8 +17,8 @@ Peer-Reviewed Articles
 
 Invited Talk
 ======
-* [2] Bridging the Gap between Physical-Conceptual Modeling and Machine Learning for Modeling Hydrologic Systems, Water Resource Science and Engineering Group at Oak Ridge National Laboratory, Oak Ridge, TN, USA, 03/09/2023* (Invited Webinar Talk)
-* [1] A Mass-Conserving-Perceptron for Machine-Learning-Based Modeling of Hydrologic Systems, Research Group lead by Professor Chaopeng Shen, at Civil and Environmental Engineering, The Pennsylvania State University, State College, PA, USA, 02/10/2023* (Invited Webinar Talk)
+* [2] Bridging the Gap between Physical-Conceptual Modeling and Machine Learning for Modeling Hydrologic Systems, *Water Resource Science and Engineering Group at Oak Ridge National Laboratory, Oak Ridge, TN, USA*, 03/09/2023 (Invited Webinar Talk)
+* [1] A Mass-Conserving-Perceptron for Machine-Learning-Based Modeling of Hydrologic Systems, *Research Group lead by Professor Chaopeng Shen, at Civil and Environmental Engineering, The Pennsylvania State University, State College, PA, USA*, 02/10/2023 (Invited Webinar Talk)
 
 Conference Proceedings
 ======
