@@ -22,10 +22,11 @@ Invited Talk
 
 Conference Proceedings
 ======
+* [28] **Wang, Y.H.**, and Gupta, H.V. (2023), “Comparison of Physics-Informed Mass-Conserving Perceptron against Data-Driven Neural Network and Physical-Conceptual Models in Modeling the Hydrologic Systems”, *2nd HydroML-Symposium, May 22-24, Berkeley, CA.* 
 * [27] **Wang, Y.H.**, and Gupta, H.V. (2023), “Comparison of Physics-Informed Mass-Conserving Perceptron against Data-Driven Neural Network and Physical-Conceptual Models in Modeling the Hydrologic Systems”, *EarthWeek Research Symposium, Mar 27-31, University of Arizona, Tucson.* (Oral)
 * [26] **Wang, Y.H.**, and Gupta, H.V. (2023), “Developing Catchment-Scale Physical-Conceptual Rainfall-Runoff Models Using Machine-Learning”, *Google  Fourth Annual Flood Forecasting Meets Machine Learning Workshop, Jan 10-11.* (Online Poster)
 * [25] **Wang, Y.H.**, and Gupta, H.V. (2022), “Developing Catchment-Scale Physical-Conceptual Rainfall-Runoff Models Using Machine-Learning”, *AGU Fall Meeting, Dec 12-16, Chicago, IL.* (Oral)
-* [24] **Wang, Y.H.**, and Gupta, H.V. (2022), “Bridging the Gap between Physical-Conceptual Modeling and Machine Learning for Catchment-Scale Rainfall-Runoff Modeling”, *HydroML-Symposium, May 18-20, State College, PA.* (Lightening Talk & Poster)
+* [24] **Wang, Y.H.**, and Gupta, H.V. (2022), “Bridging the Gap between Physical-Conceptual Modeling and Machine Learning for Catchment-Scale Rainfall-Runoff Modeling”, *1st HydroML-Symposium, May 18-20, State College, PA.* (Lightening Talk & Poster)
 * [23] **Wang, Y.H.**, and Gupta, H.V. (2022), “Bridging the Gap between Physical-Conceptual Modeling and Machine Learning for Catchment-Scale Rainfall-Runoff Modeling”, *EarthWeek Research Symposium, Mar 21-25, University of Arizona, Tucson.* (Oral)
 * [22] Gupta, H.V., and **Wang, Y.H.** (2021), “Exploring the Integration of Process-Based and Deep Learning Approaches for Modeling Snowpack Dynamics”, *AGU Fall Meeting, Dec 13-17, New Orleans, LA.* (Online Poster)
 * [21] **Wang, Y.H.**, Gupta, H.V., Zeng, X. and Niu, G.Y. (2021), “Hypothesis Testing Using Long Short-Term Memory Networks for Improving Understanding of Continental- and Regional-Scale Snowpack Dynamics”, *AGU Fall Meeting, Dec 13-17, New Orleans, LA.* (Online Poster)
