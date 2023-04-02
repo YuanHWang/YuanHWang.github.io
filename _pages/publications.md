@@ -20,6 +20,10 @@ Invited Talk
 * [2] Bridging the Gap between Physical-Conceptual Modeling and Machine Learning for Modeling Hydrologic Systems, *Water Resource Science and Engineering Group at Oak Ridge National Laboratory, Oak Ridge, TN, USA*, 03/09/2023 (Invited Webinar Talk)
 * [1] A Mass-Conserving-Perceptron for Machine-Learning-Based Modeling of Hydrologic Systems, *Research Group lead by Professor Chaopeng Shen, at Civil and Environmental Engineering, The Pennsylvania State University, State College, PA, USA*, 02/10/2023 (Invited Webinar Talk)
 
+Newsletter
+======
+* [1] **Wang, Y.H.**, Apr, 2023. Roots for Resilience (R4R)-A Fellow's Perspective, *Data Science Institute (Data 7), The  University of Arizona, Tucson, AZ, [Link](https://datascience.arizona.edu/news/roots-resilience-r4r-fellows-perspective)
+
 Conference Proceedings
 ======
 * [28] **Wang, Y.H.**, and Gupta, H.V. (2023), “Comparison of Physics-Informed Mass-Conserving Perceptron against Data-Driven Neural Network and Physical-Conceptual Models in Modeling the Hydrologic Systems”, *2nd HydroML-Symposium, May 22-24, Berkeley, CA.* 
