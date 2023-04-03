@@ -22,7 +22,7 @@ Invited Talk
 
 Newsletter
 ======
-* [1] **Wang, Y.H.**, Apr, 2023. Roots for Resilience (R4R)-A Fellow's Perspective, *Data Science Institute (Data 7), The  University of Arizona, Tucson, AZ.* [Link](https://datascience.arizona.edu/news/roots-resilience-r4r-fellows-perspective)
+* [1] **Wang, Y.H.**, March, 2023. Roots for Resilience (R4R)-A Fellow's Perspective, *Data Science Institute (Data 7), The  University of Arizona, Tucson, AZ.* [Link](https://datascience.arizona.edu/news/roots-resilience-r4r-fellows-perspective)
 
 Conference Proceedings
 ======
