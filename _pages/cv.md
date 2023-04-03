@@ -25,22 +25,22 @@ Working (Research) Experiences
 ======
 * Aug, 2022 - May, 2023: Outreach Assistant
   * The University of Arizona, Hydrology and Atmospheric Science
-  * Instrutor: *Dr. Thomas Meixner* & *Dr. Christopher L. Castro*
+  * Instructor: *Dr. Thomas Meixner* & *Dr. Christopher L. Castro*
 
 * Jan, 2022 - May, 2022: Arizona Roots for Resilience (R4R) 2022 Spring Cohorts
   * Arizona Institutes for Resilience (AIR), University of Arizona Data Science Institute (DSI)
   * Duties included: Train to Use Open Science and Computational Infrastructure
-  * Instrutor: *MS. Maliaca Oxnam*
+  * Instructor: *MS. Maliaca Oxnam*
 
 * Jan, 2019 - May, 2021: Graduate Research Assistant
   * The University of Arizona, Hydrology and Atmospheric Science
   * Project: Improving National Water Model Snowmelt Runoff Prediction (NOAA-OAR-OWAQ-NA18OAR4590397)
-  * Instrutor: *Dr. Guo-Yue Niu* (PI), *Dr. Ali Behrangi*, *Dr. Xubin Zeng*, *Dr. Patrick D. Broxton*
+  * Instructor: *Dr. Guo-Yue Niu* (PI), *Dr. Ali Behrangi*, *Dr. Xubin Zeng*, *Dr. Patrick D. Broxton*
 
 * Jan, 2018 - Dec, 2018: Graduate Research Assistant
   * The University of Arizona, Hydrology and Atmospheric Science
   * Project: Improvement of WRF-Hydro National Water Model Architecture and Calibration Methods for Semi-Arid Environments with Complex Terrain (NOAA-OAR-OWAQ-2017-2005122)
-  * Instrutor: *Dr. Christopher L. Castro* (PI), *Dr. Pieter Hazenberg*, *Dr. Hoshin V. Gupta*
+  * Instructor: *Dr. Christopher L. Castro* (PI), *Dr. Pieter Hazenberg*, *Dr. Hoshin V. Gupta*
 
 * Feb, 2015 - Jun, 2017: Full-Time Research Assistant
   * National Taiwan University, Civil Engineering
