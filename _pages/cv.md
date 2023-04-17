@@ -23,7 +23,7 @@ Education
 
 Working (Research) Experiences
 ======
-* Aug, 2022 - May, 2023: Outreach Assistant
+* Aug, 2022 - May, 2023: Graduate Outreach Assistant
   * The University of Arizona, Hydrology and Atmospheric Science
   * Instructor: *Dr. Thomas Meixner* & *Dr. Christopher L. Castro*
 
@@ -100,7 +100,7 @@ Skills
 ======
 * Language: Taiwanese Mandarin, Taiwanese Hokkien, English 
 * Platforms: Mac, Linux/Unix, Windows
-* Programming Language: FORTRAN, MATLAB, Python, shell, ncl, R, C++, Java, html
+* Programming Language: Besh, FORTRAN, MATLAB, Python, shell, ncl, R, C++, Java, html
 * Land Models: Noah-MP, SUMMA
 * Deep Learning Library: Pytorch, Keras, Tensorflow, MATLAB
 
