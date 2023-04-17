@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Hydrology and Atmospheric Science, The University of Arizona, 2023 (expected) (GPA: 4.00/4.00)
+* Ph.D. in Hydrology and Atmospheric Science, The University of Arizona, 2023 (Expected) (GPA: 4.00/4.00)
   * Dissertation: A Physics-ML-Hybrid Approach to Modeling Snowpack Dynamics at the Continental Scale 
   * Supervisor: *Dr. Hoshin V. Gupta*
   * Committee Members: *Dr. P.A. Ty Ferré*, *Dr. Xubin Zeng*, *Dr. Jennifer Guohong Duan*
@@ -23,9 +23,15 @@ Education
 
 Working (Research) Experiences
 ======
-* Aug, 2022 - May, 2023: Graduate Outreach Assistant
+* Jan, 2023 - May, 2023: Graduate Outreach Assistant
   * The University of Arizona, Hydrology and Atmospheric Science
-  * Instructor: *Dr. Thomas Meixner* & *Dr. Christopher L. Castro*
+  * Duties included: Maintain Department Social Media & Lead Website Update for Department Annual Symposium 
+  * Instructor: *Dr. Christopher L. Castro*
+
+* Aug, 2022 - Dec, 2022: Graduate Outreach Assistant
+  * The University of Arizona, Hydrology and Atmospheric Science
+  * Duties included: Maintain Department Social Media & Collect Department New Logo & Turn Weekly Seminar into Webinar etc.
+  * Instructor: *Dr. Thomas Meixner*
 
 * Jan, 2022 - May, 2022: Arizona Roots for Resilience (R4R) 2022 Spring Cohorts
   * Arizona Institutes for Resilience (AIR), University of Arizona Data Science Institute (DSI)
@@ -100,7 +106,7 @@ Skills
 ======
 * Language: Taiwanese Mandarin, Taiwanese Hokkien, English 
 * Platforms: Mac, Linux/Unix, Windows
-* Programming Language: Besh, FORTRAN, MATLAB, Python, shell, ncl, R, C++, Java, html
+* Programming Language: Besh, FORTRAN, MATLAB, Python, ncl, R, C++, Java, html
 * Land Models: Noah-MP, SUMMA
 * Deep Learning Library: Pytorch, Keras, Tensorflow, MATLAB
 
