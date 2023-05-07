@@ -112,7 +112,7 @@ Skills
 
 License
 ======
-* Professional Certifications: Professional Hydraulic Engineer (Feb, 2015, Taiwan, R.O.C)
+* Professional Certifications: Professional Hydraulic Engineer (July, 2017, Taiwan, R.O.C)
 
 Honor & Scholarship
 ======
