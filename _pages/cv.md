@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Hydrology and Atmospheric Science, The University of Arizona, 2023 (Expected) (GPA: 4.00/4.00)
-  * Dissertation: A Physics-ML-Hybrid Approach to Modeling Snowpack Dynamics at the Continental Scale 
+* Ph.D. in Hydrology and Atmospheric Science, The University of Arizona, 2023 (GPA: 4.00/4.00)
+  * Dissertation: Bridging the Gap Between the Physical-Conceptual Approach and Machine Learning for Modeling Hydrological Systems
   * Supervisor: *Dr. Hoshin V. Gupta*
   * Committee Members: *Dr. P.A. Ty Ferré*, *Dr. Xubin Zeng*, *Dr. Jennifer Guohong Duan*
 * M.S. in Civil Engineering, Hydraulic Engineering Division, National Taiwan University, 2013 (GPA: 3.92/4.30)
@@ -23,42 +23,42 @@ Education
 
 Working (Research) Experiences
 ======
-* Jan, 2023 - May, 2023: Graduate Outreach Assistant
+* Jan 2023 - May 2023: Graduate Outreach Assistant
   * The University of Arizona, Hydrology and Atmospheric Science
-  * Duties included: Maintain Department Social Media & Lead Website Update for Department Annual Symposium 
+  * Duties included: Maintain Department Social Media & Lead Website Updates for Department's Annual Symposium 
   * Instructor: *Dr. Christopher L. Castro*
 
-* Aug, 2022 - Dec, 2022: Graduate Outreach Assistant
+* Aug 2022 - Dec 2022: Graduate Outreach Assistant
   * The University of Arizona, Hydrology and Atmospheric Science
-  * Duties included: Maintain Department Social Media & Collect Department New Logo & Turn Weekly Seminar into Webinar etc.
+  * Duties included: Maintain Department Social Media & Collect Department New Logo & Turn Weekly Seminars into Webinar etc.
   * Instructor: *Dr. Thomas Meixner*
 
-* Jan, 2022 - May, 2022: Arizona Roots for Resilience (R4R) 2022 Spring Cohorts
+* Jan 2022 - May 2022: Arizona Roots for Resilience (R4R) 2022 Spring Cohorts
   * Arizona Institutes for Resilience (AIR), University of Arizona Data Science Institute (DSI)
   * Duties included: Train to Use Open Science and Computational Infrastructure
   * Instructor: *MS. Maliaca Oxnam*
 
-* Jan, 2019 - May, 2021: Graduate Research Assistant
+* Jan 2019 - May 2021: Graduate Research Assistant
   * The University of Arizona, Hydrology and Atmospheric Science
   * Project: Improving National Water Model Snowmelt Runoff Prediction (NOAA-OAR-OWAQ-NA18OAR4590397)
   * Instructor: *Dr. Guo-Yue Niu* (PI), *Dr. Ali Behrangi*, *Dr. Xubin Zeng*, *Dr. Patrick D. Broxton*
 
-* Jan, 2018 - Dec, 2018: Graduate Research Assistant
+* Jan 2018 - Dec 2018: Graduate Research Assistant
   * The University of Arizona, Hydrology and Atmospheric Science
   * Project: Improvement of WRF-Hydro National Water Model Architecture and Calibration Methods for Semi-Arid Environments with Complex Terrain (NOAA-OAR-OWAQ-2017-2005122)
   * Instructor: *Dr. Christopher L. Castro* (PI), *Dr. Pieter Hazenberg*, *Dr. Hoshin V. Gupta*
 
-* Feb, 2015 - Jun, 2017: Full-Time Research Assistant
+* Feb 2015 - Jun 2017: Full-Time Research Assistant
   * National Taiwan University, Civil Engineering
   * Duties included: Conduct Government & Ministry of Science and Technology Projects
   * Supervisor: *Dr. Gene, Jiing-Yun You*
 
-* Feb, 2014 - Jan, 2015: Alternative Military Service of Education
+* Feb 2014 - Jan 2015: Alternative Military Service of Education
   * National Conscription Agency, Ministry of the Interior, Taiwan (R.O.C)
   * Duties included: Assisting in General Affairs
   * Organization: Wanhe Junior High School, Taiwan
 
-* Sep, 2011 - Jun, 2013: Part-Time Graduate Research Assistant
+* Sep 2011 - Jun 2013: Part-Time Graduate Research Assistant
   * National Taiwan University, Civil Engineering
   * Duties included: Assisting in Funded Projects
   * Supervisor: *Dr. Liang-Hsiung Huang*
@@ -66,23 +66,23 @@ Working (Research) Experiences
 Teaching Experiences
 ======
 * Graduate Teaching Assistant: The University of Arizona, Hydrology and Atmospheric Science
-* Jan, 2023 - May, 2023 (Acting Professor): 
+* Jan 2023 - May 2023 (Acting Professor): 
   * Course: ATMO 170 Introduction to Weather and Climate
   * Support Instructor: *Dr. Eyad Atallah*
 
-* Aug, 2022 - Dec, 2022: 
+* Aug 2022 - Dec 2022: 
   * Course: HWRS 350 Principles of Hydrology (Include HWRS 349A Online Session)
   * Instructor: *Dr. Martha P.L. Whitaker* 
   * Preceptor: *Mr. Jonathan H. Hasenstab*
   * Course: HWRS 642 Advanced Hydrological Modeling (Learning Models with Data)
   * Instructor: *Dr. Hoshin V. Gupta* 
 
-* Jul, 2022 - Aug, 2022 (Acting Professor): 
+* July 2022 - Aug 2022 (Acting Professor): 
   * Course: ATMO 170 Introduction to Weather and Climate
   * Instructor: *Dr. Eyad Atallah* & *Dr. Brittany Ciancarelli* 
   * Support Staff: *Mr. Ben Mitchell*
 
-* Jan, 2022 - May, 2022: 
+* Jan 2022 - May 2022: 
   * Course: HWRS 170 Earth: Our Watery Home.
   * Instructor: *Dr. P.A. Ty Ferré* & *Dr. Bo Guo*
   * Course: ATMO 170 Introduction to Weather and Climate
@@ -90,7 +90,7 @@ Teaching Experiences
   * Course: ATMO 336 Weather, Climate, and Society
   * Instructor: *Dr. Dale M. Ward*
 
-* Aug, 2021 - Dec, 2021:
+* Aug 2021 - Dec 2021:
   * Course: HWRS 417/517A Fundamentals of Water Quality
   * Instructor: *Dr. Jennifer C. McIntosh*
   * Course: HWRS 203 Arizona Water Issues
@@ -98,7 +98,7 @@ Teaching Experiences
   * Course: HWRS 428/528 Fundamentals: Systems Approach to Hydrologic Modeling.
   * Instructor: *Dr. Hoshin V. Gupta*
 
-* Aug, 2017 - Dec, 2017
+* Aug 2017 - Dec 2017
   * Courses: HWRS 170 Earth: Our Watery Home
   * Instructor: *Dr. P.A. Ty Ferré*
 
@@ -106,13 +106,13 @@ Skills
 ======
 * Language: Taiwanese Mandarin, Taiwanese Hokkien, English 
 * Platforms: Mac, Linux/Unix, Windows
-* Programming Language: Besh, FORTRAN, MATLAB, Python, ncl, R, C++, Java, html
+* Programming Language: Besh, FORTRAN, MATLAB, Python, ncl, R, C++, Java, HTML
 * Land Models: Noah-MP, SUMMA
 * Deep Learning Library: Pytorch, Keras, Tensorflow, MATLAB
 
 License
 ======
-* Professional Certifications: Professional Hydraulic Engineer (July, 2017, Taiwan, R.O.C)
+* Professional Certifications: Professional Hydraulic Engineer (July 2017, Taiwan, R.O.C)
 
 Honor & Scholarship
 ======
@@ -123,9 +123,9 @@ Honor & Scholarship
 * Shlomo and Yael Neuman Hydrology Endowment: Department of Hydrology and Atmospheric Science, The University of Arizona (FY 2020-2021).
 * Tuition Scholarship: Department of Hydrology and Atmospheric Science, The University of Arizona (2018 Fall, 2020 Spring).
 * Fellowship Award: Department of Hydrology and Atmospheric Science, The University of Arizona (2018 Fall).
-* 1st Asian Pacific Youth Parliament for Water (APYPW): Youth Participant (Taiwan, R.O.C), Daegu South Korea, July, 2012.
-* 1st World Youth Parliament for Water (WYPW): Youth Participant (Taiwan, R.O.C), Marsellie France, March, 2012.
-* 6th World Water Forum: Youth Delegation (Taiwan, R.O.C), Marsellie France, March, 2012.
+* 1st Asian Pacific Youth Parliament for Water (APYPW): Youth Participant (Taiwan, R.O.C), Daegu South Korea, July 2012.
+* 1st World Youth Parliament for Water (WYPW): Youth Participant (Taiwan, R.O.C), Marseille France, March 2012.
+* 6th World Water Forum: Youth Delegation (Taiwan, R.O.C), Marseille France, March 2012.
   
 Service
 ======
