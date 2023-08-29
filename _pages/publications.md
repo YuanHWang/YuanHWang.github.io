@@ -26,7 +26,8 @@ Newsletter
 
 Conference Proceedings
 ======
-* [29] **Wang, Y.H.**, and Gupta, H.V. (2023), “Machine-Learning-Based Physically-Interpretable Catchment-Scale Modeling of Hydrologic Systems”, *AGU Fall Meeting, Dec 11-15, San Francisco, CA.* 
+* [30] **Wang, Y.H.**, and Gupta, H.V. (2023), “Machine-Learning-Based Physically-Interpretable Catchment-Scale Modeling of Hydrologic Systems”, *AGU Fall Meeting, Dec 11-15, San Francisco, CA.*
+* [29] **Wang, Y.H.**, and Gupta, H.V. (2023), “A Mass-Conserving-Perceptron for Machine-Learning-Based Modeling of Hydrologic Systems”, *Third International Workshop on Information Theory in the Earth Sciences, The Schneefernerhaus, Garmisch-Partenkirchen, Germany, Sept 10-14.*
 * [28] **Wang, Y.H.**, and Gupta, H.V. (2023), “Comparison of Physics-Informed Mass-Conserving Perceptron against Data-Driven Neural Network and Physical-Conceptual Models in Modeling the Hydrologic Systems”, *2nd HydroML-Symposium, May 22-24, Berkeley, CA.* 
 * [27] **Wang, Y.H.**, and Gupta, H.V. (2023), “Comparison of Physics-Informed Mass-Conserving Perceptron against Data-Driven Neural Network and Physical-Conceptual Models in Modeling the Hydrologic Systems”, *EarthWeek Research Symposium, Mar 27-31, University of Arizona, Tucson.* (Oral)
 * [26] **Wang, Y.H.**, and Gupta, H.V. (2023), “Developing Catchment-Scale Physical-Conceptual Rainfall-Runoff Models Using Machine-Learning”, *4th Annual Flood Forecasting Meets Machine Learning Workshop, Google LLC, Jan 10-11.* (Online Poster)
