@@ -24,7 +24,7 @@ Education
 Working (Research) Experiences
 ======
 * Aug 2023 - present: Postdoctoral Research Associate
-  * Oka Ridge National Laboratory, Water Resource Science and Engineering Group
+  * Oak Ridge National Laboratory, Water Resource Science and Engineering Group
   * Mentor: *Dr. Shih-Chieh Kao* & *Dr. Sudershan Gangrade*
 
 * Aug 2023 - present: Research Scientist (Designated Campus Colleague)
