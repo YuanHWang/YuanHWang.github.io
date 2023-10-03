@@ -23,6 +23,10 @@ Education
 
 Working (Research) Experiences
 ======
+* Aug 2023 - present: Research Assistant (Designated Campus Colleague)
+  * The University of Arizona, Hydrology and Atmospheric Science
+  * Instructor: *Dr. Hoshin V. Gupta*
+
 * Jan 2023 - May 2023: Graduate Outreach Assistant
   * The University of Arizona, Hydrology and Atmospheric Science
   * Duties included: Maintain Department Social Media & Lead Website Updates for Department's Annual Symposium 
