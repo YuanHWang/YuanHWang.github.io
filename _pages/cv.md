@@ -23,7 +23,11 @@ Education
 
 Working (Research) Experiences
 ======
-* Aug 2023 - present: Research Assistant (Designated Campus Colleague)
+* Aug 2023 - present: Postdoctoral Research Associate
+  * Oka Ridge National Laboratory, Water Resource Science and Engineering Group
+  * Mentor: *Dr. Shih-Chieh Kao* & *Dr. Sudershan Gangrade*
+
+* Aug 2023 - present: Research Scientist (Designated Campus Colleague)
   * The University of Arizona, Hydrology and Atmospheric Science
   * Instructor: *Dr. Hoshin V. Gupta*
 
