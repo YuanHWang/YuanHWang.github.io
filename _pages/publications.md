@@ -27,8 +27,8 @@ Newsletter
 
 Conference Proceedings
 ======
-* [33] **Wang, Y.H.**, Gangrade, S., Iftekhar, B., Fan, M., Lu, D., Kao, S.C., and Painter, S.L., 2024. Machine Learning Based Reservoir Operation Modeling for Long-Term Water Management Over the United States. *In World Environmental and Water Resources Congress, May 19-22, Milwaukee, WI*
-* [32] Gangrade, S., Kao, S.C., Ghimire, G.R., Morales-Hernández, M., Kelleher, M.E., and **Wang, Y.H.**, 2024. Ensemble Flood Inundation Mapping under Changing Climate Conditions: A Case Study Driven by Downscaled CMIP6 Projections. *In World Environmental and Water Resources Congress, May 19-22, Milwaukee, WI*
+* [33] **Wang, Y.H.**, Gangrade, S., Iftekhar, B., Fan, M., Lu, D., Kao, S.C., and Painter, S.L., (2024). Machine Learning Based Reservoir Operation Modeling for Long-Term Water Management Over the United States. *In World Environmental and Water Resources Congress, May 19-22, Milwaukee, WI*
+* [32] Gangrade, S., Kao, S.C., Ghimire, G.R., Morales-Hernández, M., Kelleher, M.E., and **Wang, Y.H.**, (2024). Ensemble Flood Inundation Mapping under Changing Climate Conditions: A Case Study Driven by Downscaled CMIP6 Projections. *In World Environmental and Water Resources Congress, May 19-22, Milwaukee, WI*
 * [31] **Wang, Y.H.**, and Gupta, H.V. (2024), “Rainfall-Runoff Modeling Using Mass-Conserving Perceptron”, *5th Annual Flood Forecasting Meets Machine Learning Workshop, Google LLC, Jan 22-23.* (Online Poster)
 * [30] **Wang, Y.H.**, and Gupta, H.V. (2023), “Machine-Learning-Based Physically-Interpretable Catchment-Scale Modeling of Hydrologic Systems”, *AGU Fall Meeting, Dec 11-15, San Francisco, CA.*
 * [29] **Wang, Y.H.**, and Gupta, H.V. (2023), “A Mass-Conserving-Perceptron for Machine-Learning-Based Modeling of Hydrologic Systems”, *Third International Workshop on Information Theory in the Earth Sciences, The Schneefernerhaus, Garmisch-Partenkirchen, Germany, Sept 10-14.*
