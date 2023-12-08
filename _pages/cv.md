@@ -114,7 +114,7 @@ Skills
 ======
 * Language: Taiwanese Mandarin, Taiwanese Hokkien, English 
 * Platforms: Mac, Linux/Unix, Windows
-* Programming Language: Besh, FORTRAN, MATLAB, Python, ncl, R, C++, Java, HTML
+* Programming Language: FORTRAN, MATLAB, Python, shell, ncl, R, C++, Java, HTML
 * Land Models: Noah-MP, SUMMA
 * Deep Learning Library: Pytorch, Keras, Tensorflow, MATLAB
 
@@ -137,6 +137,7 @@ Honor & Scholarship
   
 Service
 ======
+* Co-Organizers: 3rd HydroML Symposium, Pacific Northwest National Laboratory (2024)
 * Co-Organizers: 2nd HydroML Symposium, Lawrence Berkeley National Laboratory (2023)
 * Planning Team Member: El Día del Agua y la Atmósfera, The Univerity of Arizona (2023)
 * Technical Committee Member: 1st HydroML Symposium, The Pennsylvania State University (2022)
