@@ -145,7 +145,7 @@ Service
 Review Service
 ======
 * Journal of Hydrometeorology (2022)
-* Water Resources Research (2020, 2021, 2022)
+* Water Resources Research (2020, 2021, 2022, 2023)
 * Journal of Hydrology (2017, 2023)
 * Cold Regions Science and Technology (2023)
 * Advances in Water Resources (2023)
