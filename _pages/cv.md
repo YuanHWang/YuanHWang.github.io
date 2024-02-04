@@ -25,7 +25,7 @@ Working (Research) Experiences
 ======
 * Aug 2023 - present: Postdoctoral Research Associate
   * Oak Ridge National Laboratory, Water Resource Science and Engineering Group
-  * Mentor: *Dr. Sudershan Gangrade*
+  * Mentor: *Dr. Sudershan Gangrade*, *Dr. Sean Turner*
 
 * Aug 2023 - present: Research Scientist (Designated Campus Colleague)
   * The University of Arizona, Hydrology and Atmospheric Science
