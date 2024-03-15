@@ -144,6 +144,7 @@ Service
 
 Review Service
 ======
+* Earth Future, AGU. (2024)
 * Water Resources Research, AGU. (2020, 2021, 2022, 2023)
 * Journal of Hydrometeorology, AMS. (2022)
 * Advances in Water Resources, Elsevier. (2023, 2024)
