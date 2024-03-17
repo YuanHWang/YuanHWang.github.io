@@ -116,7 +116,7 @@ Skills
 * Platforms: Mac, Linux/Unix, Windows
 * Programming Language: FORTRAN, MATLAB, Python, shell, ncl, R, C++, Java, HTML
 * Land Models: Noah-MP, SUMMA
-* Deep Learning Library: Pytorch, Keras, Tensorflow, MATLAB
+* Deep Learning Library: Pytorch, Keras, Tensorflow, JAX, MATLAB
 
 License
 ======
