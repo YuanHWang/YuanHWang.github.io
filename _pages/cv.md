@@ -28,8 +28,7 @@ Working (Research) Experiences
   * Instructor: *Dr. Hoshin V. Gupta*
     
 * Aug 2023 - present: Postdoctoral Research Associate
-  * Oak Ridge National Laboratory, Water Resource Science and Engineering Group
-  * Mentor: *Dr. Sudershan Gangrade*
+  * Oak Ridge National Laboratory, Environmental Science Division, Water Resource Science and Engineering Group
     
 * Jan 2023 - May 2023: Graduate Outreach Assistant
   * The University of Arizona, Hydrology and Atmospheric Science
