@@ -16,7 +16,7 @@ Education
   * Supervisor: *Dr. Hoshin V. Gupta*
   * Committee Members: *Dr. P.A. Ty Ferré*, *Dr. Xubin Zeng*, *Dr. Jennifer Guohong Duan*
 * M.S. in Civil Engineering, Hydraulic Engineering Division, National Taiwan University, 2013 (GPA: 3.92/4.30)
-  * Dissertation: The Mountaneous Groundwater and Mass Transport Model 
+  * Dissertation: The Mountaneous Groundwater and Mass Transport Model (In Tranditional Chinese)
   * Supervisor: *Dr. Liang-Hsiung Huang*
   * Committee Members: *Dr. Jinn-Chuang Yang*, *Dr. Chung‐Hong Song*, *Dr. Tung-Lin Tsai*
 * B.S. in Civil Engineering, National Taiwan University, 2011 (GPA: 3.61/4.00)
