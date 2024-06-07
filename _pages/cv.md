@@ -23,13 +23,18 @@ Education
 
 Working (Research) Experiences
 ======
+* July 2024 - Present: Postdoctoral Research Associate
+  * Lawrence Berkeley National Laboratory, Climate and Ecosystem Sciences Division
+  * Mentor: *Dr. Charuleka Varadharajan*
+        
 * Aug 2023 - present: Research Scientist (Designated Campus Colleague)
   * The University of Arizona, Hydrology and Atmospheric Science
   * Instructor: *Dr. Hoshin V. Gupta*
     
-* Aug 2023 - present: Postdoctoral Research Associate
+* Aug 2023 - July 2024: Postdoctoral Research Associate
   * Oak Ridge National Laboratory, Environmental Science Division, Water Resource Science and Engineering Group
-    
+  * Mentor: *Dr. Sudershan Gangrade*
+
 * Jan 2023 - May 2023: Graduate Outreach Assistant
   * The University of Arizona, Hydrology and Atmospheric Science
   * Duties included: Maintain Department Social Media & Lead Website Updates for Department's Annual Symposium 
