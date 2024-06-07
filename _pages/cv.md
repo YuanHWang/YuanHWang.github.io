@@ -23,7 +23,7 @@ Education
 
 Working (Research) Experiences
 ======
-* July 2024 - Present: Postdoctoral Research Associate
+* July 2024 - Present: Water Data Science Postdoctoral Fellow
   * Lawrence Berkeley National Laboratory, Climate and Ecosystem Sciences Division
   * Mentor: *Dr. Charuleka Varadharajan*
         
