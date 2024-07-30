@@ -116,7 +116,7 @@ Teaching Experiences
 
 Skills
 ======
-* Language: Taiwanese Mandarin, Taiwanese Hokkien, English 
+* Language: Taiwanese Mandarin (Native), Taiwanese Hokkien(Native), English (Fluent)
 * Platforms: Mac, Linux/Unix, Windows
 * Programming Language: FORTRAN, MATLAB, Python, shell, ncl, R, C++, Java, HTML
 * Land Models: Noah-MP, SUMMA
