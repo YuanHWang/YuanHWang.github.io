@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Hydrology and Atmospheric Science, The University of Arizona, 2023 (GPA: 4.00/4.00)
+* Ph.D. in Hydrology and Water Resources, The University of Arizona, 2023 (GPA: 4.00/4.00)
   * Dissertation: Bridging the Gap Between the Physical-Conceptual Approach and Machine Learning for Modeling Hydrological Systems ([Link](https://repository.arizona.edu/handle/10150/668421); In English)
   * Supervisor: *Dr. Hoshin V. Gupta*
   * Committee Members: *Dr. P.A. Ty Ferré*, *Dr. Xubin Zeng*, *Dr. Jennifer Guohong Duan*
