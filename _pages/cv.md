@@ -148,9 +148,10 @@ Service
 
 Review Service
 ======
-* Earth Future, AGU. (2024; Since Mar 2024)
-* Advances in Water Resources, Elsevier. (2023, 2024; Since Nov 2023)
-* Cold Regions Science and Technology, Elsevier. (2023; Since Aug 2023)
-* Journal of Hydrometeorology, AMS. (2022; Since Sept 2022)
-* Water Resources Research, AGU. (2020, 2021, 2022, 2023, 2024; Since Oct 2020)
-* Journal of Hydrology, Elsevier. (2017, 2023; Since Apr 2017)
+* Nature Communications (2024; Since Aug 2024)
+* Earth Future (2024; Since Mar 2024)
+* Advances in Water Resources (2023, 2024; Since Nov 2023)
+* Cold Regions Science and Technology (2023; Since Aug 2023)
+* Journal of Hydrometeorology (2022; Since Sept 2022)
+* Water Resources Research (2020, 2021, 2022, 2023, 2024; Since Oct 2020)
+* Journal of Hydrology (2017, 2023; Since Apr 2017)
