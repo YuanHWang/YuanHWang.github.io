@@ -148,6 +148,7 @@ Service
 
 Review Service
 ======
+* Journal of Geophysical Research  (2024; Since Sept 2024)
 * Nature Communications (2024; Since Aug 2024)
 * Earth Future (2024; Since Mar 2024)
 * Advances in Water Resources (2023, 2024; Since Nov 2023)
