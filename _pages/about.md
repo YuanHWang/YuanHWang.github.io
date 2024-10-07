@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-This site has been started by Yuan-Heng Wang since Apr, 2022.
+Hello, my name is Yuan-Heng Wang. This academic GitHub site has been regularly updated since April 2022 to document my academic activities, facilitate information sharing, and encourage collaboration with people worldwide who are interested in my research area.
 
