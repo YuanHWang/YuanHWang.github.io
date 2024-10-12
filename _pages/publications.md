@@ -19,7 +19,7 @@ Peer-Reviewed Articles
 
 Invited Talk
 ======
-* [5] Rainfall-Runoff Modeling Using the Mass-Conserving-Perceptron: A Large Sample Survey, *Department of Hydrology and Atmospheric Science, University of Arizona, Tucson, AZ, USA*, 11/13/2024 (Invited Webinar Talk in Departmnt Weekly Seminar, host by Dr. Kim Wood)
+* [5] Rainfall-Runoff Modeling Using the Mass-Conserving-Perceptron: A Large Sample Survey, *Department of Hydrology and Atmospheric Science, University of Arizona, Tucson, AZ, USA*, 11/13/2024 (Invited Webinar Talk in Department Weekly Seminar, host by Dr. Kim Wood)
 * [4] Towards Physical-Interpretable Geoscientific Modeling Using the Mass-Conserving-Perceptron, *Climate and Ecosystem Sciences Division, Lawrence Berkeley National Laboratory, Berkeley, CA, USA*, 02/01/2024 (Invited Webinar Talk, host by Dr. Charuleka Varadharajan)
 * [3] An AI-Physics Hybrid Approach for Modeling Snowpack Accumulation and Melt Under Climate Change, *College of Engineering Utah Water Research Laboratory, Utah State University, Logan, UT, USA*, 01/22/2024 (Invited Webinar Talk, host by Dr. David Tarboton)
 * [2] Bridging the Gap between Physical-Conceptual Modeling and Machine Learning for Modeling Hydrologic Systems, *Water Resource Science and Engineering Group at Oak Ridge National Laboratory, Oak Ridge, TN, USA*, 03/09/2023 (Invited Webinar Talk, host by Dr. Shih-Chieh Kao)
