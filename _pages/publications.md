@@ -7,7 +7,7 @@ author_profile: true
 
 Peer-Reviewed Articles
 ======
-* [9] **Wang, Y.H.** and Gupta, H.V., 2024. Towards interpretable physical‐conceptual catchment‐scale hydrological modeling using the mass‐conserving‐perceptron. *Water Resources Research, 60(10), p.e2024WR037224.*[Link](https://doi.org/10.1029/2024WR037224)
+* [9] **Wang, Y.H.** and Gupta, H.V., 2024. Towards interpretable physical‐conceptual catchment‐scale hydrological modeling using the mass‐conserving‐perceptron. *Water Resources Research, 60(10), p.e2024WR037224.* [Link](https://doi.org/10.1029/2024WR037224)
 * [8] **Wang, Y.H.** and Gupta, H.V., 2024. A Mass-Conserving-Perceptron for Machine-Learning-Based Modeling of Geoscientific Systems. *Water Resources Research, 60(4), p.e2023WR036461.* [Link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023WR036461)
 * [7] **Wang, Y.H.**, Gupta, H.V., Zeng, X. and Niu, G.Y., 2022. Exploring the Potential of Long Short‐Term Memory Networks for Improving Understanding of Continental‐and Regional‐Scale Snowpack Dynamics. *Water Resources Research, 58(3), p.e2021WR031033.* [Link](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021WR031033)
 * [6] Liang, C.Y., **Wang, Y.H.**, You, G.J.Y., Chen, P.C. and Lo, E., 2021. Evaluating the Cost of Failure Risk: A Case Study of the Kang-Wei-Kou Stream Diversion Project. *Water, 13(20), p.2881.*(Contribute equally with Liang, C.Y.). [Link](https://www.mdpi.com/2073-4441/13/20/2881)
