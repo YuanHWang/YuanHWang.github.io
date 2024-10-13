@@ -149,8 +149,8 @@ Service
 Review Service
 ======
 * Journal of Geophysical Research  (Since Sept 2024)
-* Journal of Soil and Water Conservation (Since Aug 2024)
 * Nature Communications (Since Aug 2024)
+* Journal of Soil and Water Conservation (Since Jul 2024)
 * Earth's Future (Since Mar 2024)
 * Advances in Water Resources (Since Nov 2023)
 * Cold Regions Science and Technology (Since Aug 2023)
