@@ -149,6 +149,7 @@ Service
 Review Service
 ======
 * Journal of Geophysical Research  (Since Sept 2024)
+* Journal of Soil and Water Conservation (Since Aug 2024)
 * Nature Communications (Since Aug 2024)
 * Earth Future (Since Mar 2024)
 * Advances in Water Resources (Since Nov 2023)
@@ -156,3 +157,4 @@ Review Service
 * Journal of Hydrometeorology (Since Sept 2022)
 * Water Resources Research (Since Oct 2020)
 * Journal of Hydrology (Since Apr 2017)
+  
