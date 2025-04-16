@@ -32,7 +32,8 @@ Newsletter
 
 Conference Proceedings
 ======
-* [42] **Wang, Y.H.**, and Gupta, H.V. (2025), “Developing Catchment-Scale Rainfall-Runoff Modeling Using the Mass-Conserving-Perceptron-Based Neural Networks”, *4th HydroML-Symposium, May 27-29, Los Angeles, CA*.
+* [43] **Wang, Y.H.**, and Gupta, H.V. (2025), “Developing Catchment-Scale Rainfall-Runoff Modeling Using the Mass-Conserving-Perceptron-Based Neural Networks”, *4th HydroML-Symposium, May 27-29, Los Angeles, CA*.
+* [42] Varadharajan, C., Nagamoto, E., **Wang, Y.H.**, Ciulla, F., Willard, J., Carroll, R., and Ombadi, M., (2025), "Understanding stream flow resistance and vulnerability to meteorological droughts at regional to continental scales", *Environmental System Science PI meeting, Apr 15-17, Washington, D.C.*
 * [41] Varadharajan, C., Carroll, R., Falco, N., **Wang, Y.H.**, Liu, C., Dwivedi, D., Sprenger, M., Woodburn, E., Beutler, C., O’Ryan, D., and Williams, K., (2025), "Investigating the factors controlling stream intermittency during drought in hadwater catchments", *Environmental System Science PI meeting, Apr 15-17, Washington, D.C.*
 * [40] Ciulla, F., Nagamoto, E., Willard, J., **Wang, Y.H.**, Weierbach, H., Lima, A., and Varadharajan, C. (2024), “A Network Approach to Determine Factors Affecting the Functional Behavior of Watershed Systems”, *AGU Fall Meeting, Dec 9-13, Washington, D.C.* 
 * [39] Willard, J., Weierbach, H., Ciulla, F., **Wang, Y.H.**, and Varadharajan, C. (2024), “Ensemble Deep Learning Strategies for Improved Prediction and Uncertainty Quantification of Stream Flows and Temperature in Unmonitored River Sites”, *AGU Fall Meeting, Dec 9-13, Washington, D.C.* 
