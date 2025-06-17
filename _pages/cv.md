@@ -148,6 +148,7 @@ Service
 
 Review Service
 ======
+* Earth Science Informatics (Since June 2025)
 * Journal of Geophysical Research  (Since Sept 2024)
 * Nature Communications (Since Aug 2024)
 * Journal of Soil and Water Conservation (Since July 2024)
