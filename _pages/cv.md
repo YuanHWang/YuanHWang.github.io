@@ -148,6 +148,8 @@ Service
 
 Review Service
 ======
+* Geoscientific Model Development (Since Sept 2025)
+* Stochastic Environmental Research and Risk Assessment (Since August 2025)
 * Earth Science Informatics (Since June 2025)
 * Journal of Geophysical Research  (Since Sept 2024)
 * Nature Communications (Since Aug 2024)
