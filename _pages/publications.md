@@ -7,7 +7,7 @@ author_profile: true
 
 Peer-Reviewed Articles
 ======
-* [11] **Wang, Y.H.** , Yang, Y., Ciulla, F., Gupta, H.V., Varadharajan, C. 2025. Towards CONUS-Wide ML-Augmented Conceptually-Interpretable Modeling of Catchment-Scale Precipitation-Storage-Runoff Dynamics. *arXiv preprint arXiv:2510.02605.* [Link](https://arxiv.org/abs/2510.02605)
+* [11] **Wang, Y.H.** , Yang, Y., Ciulla, F., Gupta, H.V. and Varadharajan, C. 2025. Towards CONUS-Wide ML-Augmented Conceptually-Interpretable Modeling of Catchment-Scale Precipitation-Storage-Runoff Dynamics. *arXiv preprint arXiv:2510.02605.* [Link](https://arxiv.org/abs/2510.02605)
 * [10] **Wang, Y.H.** and Gupta, H.V., 2024. Using Machine Learning to Discover Parsimonious and Physically-Interpretable Representations of Catchment-Scale Rainfall-Runoff Dynamics. *arXiv preprint arXiv:2412.04845.* [Link](https://arxiv.org/abs/2412.04845)
 * [9] **Wang, Y.H.** and Gupta, H.V., 2024. Towards Interpretable Physical‐Conceptual Catchment‐Scale Hydrological Modeling Using the Mass‐Conserving‐Perceptron. *Water Resources Research, 60(10), p.e2024WR037224.* [Link](https://doi.org/10.1029/2024WR037224)
 * [8] **Wang, Y.H.** and Gupta, H.V., 2024. A Mass-Conserving-Perceptron for Machine-Learning-Based Modeling of Geoscientific Systems. *Water Resources Research, 60(4), p.e2023WR036461.* [Link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023WR036461)
