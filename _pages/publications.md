@@ -21,7 +21,7 @@ Peer-Reviewed Articles
 
 Invited Talk
 ======
-* [7] Toward Parsimonious, Physically Interpretable ML-Based Geoscientific Modeling: From Idea Formulation to Proof of Concept and CONUS-Wide Large-Sample Investigation, *Department of Civil & Environmental Engineering, Colorado State University*, CO, USA, 10/15/2025 (Invited Seminar Talk, host by Dr. Chien-Yung Tseng) 
+* [7] Toward Parsimonious, Physically Interpretable ML-Based Geoscientific Modeling: From Idea Formulation to Proof of Concept and CONUS-Wide Large-Sample Investigation, *Department of Civil & Environmental Engineering, Colorado State University*, CO, USA, 10/15/2025 (Invited Seminar Talk, host by Dr. Chien-Yung Tseng) [Link] (https://www.engr.colostate.edu/ce/wees-wang-fa25/)
 * [6] Using machine learning to discover parsimonious and physically-interpretable representations of catchment-scale rainfall-runoff dynamics, *Information Theory in the Geosciences group*, 07/30/2025 (Invited Webinar Talk, host by Dr. Antoine Dolant) [Vedio](https://www.youtube.com/watch?v=OhIcYGh4ifc&t=2759s) 
 * [5] Rainfall-Runoff Modeling Using the Mass-Conserving-Perceptron: A Large Sample Survey, *Department of Hydrology and Atmospheric Science, University of Arizona, Tucson, AZ, USA*, 11/13/2024 (Invited Webinar Talk in Department Weekly Seminar, host by Dr. Kim Wood) [Link](https://has.arizona.edu/events/talk-yuan-heng-wang-lawrence-berkleley-national-lab-ml-enabled-physically-interpretable)
 * [4] Towards Physical-Interpretable Geoscientific Modeling Using the Mass-Conserving-Perceptron, *Climate and Ecosystem Sciences Division, Lawrence Berkeley National Laboratory, Berkeley, CA, USA*, 02/01/2024 (Invited Webinar Talk, host by Dr. Charuleka Varadharajan)
