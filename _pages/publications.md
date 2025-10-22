@@ -33,7 +33,7 @@ Newsletter
 ======
 * [1] **Wang, Y.H.**, March, 2023. Roots for Resilience (R4R)-A Fellow's Perspective, *Data Science Institute (Data 7), The  University of Arizona, Tucson, AZ.* [Link](https://datascience.arizona.edu/news/roots-resilience-r4r-fellows-perspective)
 
-Conference Proceedings
+Conference Presentations
 ======
 * [48] Varadharajan, C., **Wang, Y.H.**, Liu, C., Falco., N., Dwivedi, D., Carroll, R., O’Ryan, D., Herzog, A., Beutler, C., Shirley, Austin., Sprenger, M., Christensen, J., and Williams, K. (2025), “Combining Machine Learning and Physically-based models to Identify Stream Intermittency in Mountainous Headwaters”, *AGU Fall Meeting, Dec 15-19, New Orleans, LA*
 * [47] Varadharajan, C., Willard, J., **Wang, Y.H.**, Ciulla, F., Ren, P., and Mahoney, M. (2025), “The power of many: machine learning ensembles to improve hydrologic predictions”, *AGU Fall Meeting, Dec 15-19, New Orleans, LA*
