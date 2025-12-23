@@ -148,6 +148,7 @@ Service
 
 Review Service
 ======
+* Journal of Advances in Modeling Earth Systems (Since Dec 2025)
 * Geoscientific Model Development (Since Sept 2025)
 * Stochastic Environmental Research and Risk Assessment (Since August 2025)
 * Earth Science Informatics (Since June 2025)
