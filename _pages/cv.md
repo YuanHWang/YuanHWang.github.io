@@ -148,9 +148,9 @@ Service
 
 Review Service
 ======
-* Journal of Advances in Modeling Earth Systems (Since Dec 2025)
+* Hydrology and Earth System Sciences (Since Feb 2026)
+* Journal of Advances in Modeling Earth Systems (Since Jan 2026)
 * Geoscientific Model Development (Since Sept 2025)
-* Stochastic Environmental Research and Risk Assessment (Since August 2025)
 * Earth Science Informatics (Since June 2025)
 * Journal of Geophysical Research  (Since Sept 2024)
 * Nature Communications (Since Aug 2024)
@@ -161,4 +161,3 @@ Review Service
 * Journal of Hydrometeorology (Since Sept 2022)
 * Water Resources Research (Since Oct 2020)
 * Journal of Hydrology (Since Apr 2017)
-  
