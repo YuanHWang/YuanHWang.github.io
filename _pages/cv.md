@@ -141,6 +141,7 @@ Honor & Scholarship
   
 Service
 ======
+* Organizing Committee: 5th HydroML Symposium, The University of Texas at Austin (2026)
 * Co-Organizers: 3rd HydroML Symposium, Pacific Northwest National Laboratory (2024)
 * Co-Organizers: 2nd HydroML Symposium, Lawrence Berkeley National Laboratory (2023)
 * Planning Team Member: El Día del Agua y la Atmósfera, The Univerity of Arizona (2023)
