@@ -149,6 +149,7 @@ Service
 
 Review Service
 ======
+* Geophysical Research Letters (Since Apr 2026)
 * Hydrology and Earth System Sciences (Since Feb 2026)
 * Journal of Advances in Modeling Earth Systems (Since Jan 2026)
 * Geoscientific Model Development (Since Sept 2025)
