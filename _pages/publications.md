@@ -36,7 +36,7 @@ Newsletter
 
 Conference Presentations
 ======
-[49] **Wang, Y.H.**, and Gupta, H.V. (2026), “Mass-Conserving-Ensemble-Perceptron (MCEnP): Toward a Differentiable Physical–Conceptual Framework for Stochastic Hydrologic Modeling at the Catchment Scale”, *5th HydroML-Symposium, May 19-21, Austin, TX* 
+* [49] **Wang, Y.H.**, and Gupta, H.V. (2026), “Mass-Conserving-Ensemble-Perceptron (MCEnP): Toward a Differentiable Physical–Conceptual Framework for Stochastic Hydrologic Modeling at the Catchment Scale”, *5th HydroML-Symposium, May 19-21, Austin, TX* 
 * [48] Varadharajan, C., **Wang, Y.H.**, Liu, C., Falco., N., Dwivedi, D., Carroll, R., O’Ryan, D., Herzog, A., Beutler, C., Shirley, Austin., Sprenger, M., Christensen, J., and Williams, K. (2025), “Combining Machine Learning and Physically-based models to Identify Stream Intermittency in Mountainous Headwaters”, *AGU Fall Meeting, Dec 15-19, New Orleans, LA*
 * [47] Varadharajan, C., Willard, J., **Wang, Y.H.**, Ciulla, F., Ren, P., and Mahoney, M. (2025), “The power of many: machine learning ensembles to improve hydrologic predictions”, *AGU Fall Meeting, Dec 15-19, New Orleans, LA*
 * [46] Yang, Y., **Wang, Y.H.**, Gupta, H.V., Luo, S and Chui, T.F.M. (2025), “Learning Data-Driven Hydrological Signatures from Daily Runoff with Contrastive Learning”, *AGU Fall Meeting, Dec 15-19, New Orleans, LA*
