@@ -7,6 +7,7 @@ author_profile: true
 
 Peer-Reviewed Articles
 ======
+* [12] Jawad, M., Gupta, H.V., **Wang, Y.H.**, Farmani, M.A.,Behrangi, A.,and Niu, G.Y., 2026. Improving Model Performance by Adapting the KGE Metric to Account for System Non-Stationarity. *arXiv preprint arXiv:2604.03906.* [Link](https://arxiv.org/abs/2604.03906)
 * [11] **Wang, Y.H.** , Yang, Y., Ciulla, F., Gupta, H.V. and Varadharajan, C. 2025. Towards CONUS-Wide ML-Augmented Conceptually-Interpretable Modeling of Catchment-Scale Precipitation-Storage-Runoff Dynamics. *arXiv preprint arXiv:2510.02605.* [Link](https://arxiv.org/abs/2510.02605)
 * [10] **Wang, Y.H.** and Gupta, H.V., 2025. Using Machine Learning to Discover Parsimonious and Physically-Interpretable Representations of Catchment-Scale Rainfall-Runoff Dynamics. *Water Resources Research, 61(12), p.e2025WR040178.* [Link](https://doi.org/10.1029/2025WR040178) 
 * [9] **Wang, Y.H.** and Gupta, H.V., 2024. Towards Interpretable Physical‐Conceptual Catchment‐Scale Hydrological Modeling Using the Mass‐Conserving‐Perceptron. *Water Resources Research, 60(10), p.e2024WR037224.* [Link](https://doi.org/10.1029/2024WR037224)
@@ -35,6 +36,7 @@ Newsletter
 
 Conference Presentations
 ======
+[49] **Wang, Y.H.**, and Gupta, H.V. (2026), “Mass-Conserving-Ensemble-Perceptron (MCEnP): Toward a Differentiable Physical–Conceptual Framework for Stochastic Hydrologic Modeling at the Catchment Scale”, *5th HydroML-Symposium, May 19-21, Austin, TX* 
 * [48] Varadharajan, C., **Wang, Y.H.**, Liu, C., Falco., N., Dwivedi, D., Carroll, R., O’Ryan, D., Herzog, A., Beutler, C., Shirley, Austin., Sprenger, M., Christensen, J., and Williams, K. (2025), “Combining Machine Learning and Physically-based models to Identify Stream Intermittency in Mountainous Headwaters”, *AGU Fall Meeting, Dec 15-19, New Orleans, LA*
 * [47] Varadharajan, C., Willard, J., **Wang, Y.H.**, Ciulla, F., Ren, P., and Mahoney, M. (2025), “The power of many: machine learning ensembles to improve hydrologic predictions”, *AGU Fall Meeting, Dec 15-19, New Orleans, LA*
 * [46] Yang, Y., **Wang, Y.H.**, Gupta, H.V., Luo, S and Chui, T.F.M. (2025), “Learning Data-Driven Hydrological Signatures from Daily Runoff with Contrastive Learning”, *AGU Fall Meeting, Dec 15-19, New Orleans, LA*
