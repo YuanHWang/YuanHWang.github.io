@@ -7,8 +7,8 @@ author_profile: true
 
 Peer-Reviewed Articles
 ======
-* [13] **Wang, Y.H.**, and Gupta, H.V., 2026. From Conceptual Hydrologic Models to Conceptually Interpretable Neural Networks: A Snow–Water Mass–Conserving–Perceptron Framework for Discovering Catchment-Scale Precipitation–Storage–Runoff Representations. *arXiv preprint arXiv:2607.26492.* [Link](http://arxiv.org/abs/2607.26492)
-* [12] Jawad, M., Gupta, H.V., **Wang, Y.H.**, Farmani, M.A.,Behrangi, A.,and Niu, G.Y., 2026. Improving Model Performance by Adapting the KGE Metric to Account for System Non-Stationarity. *arXiv preprint arXiv:2604.03906.* [Link](https://arxiv.org/abs/2604.03906)
+* [13] **Wang, Y.H.**, and Gupta, H.V. 2026. From Conceptual Hydrologic Models to Conceptually Interpretable Neural Networks: A Snow–Water Mass–Conserving–Perceptron Framework for Discovering Catchment-Scale Precipitation–Storage–Runoff Representations. *arXiv preprint arXiv:2607.26492.* [Link](http://arxiv.org/abs/2607.26492)
+* [12] Jawad, M., Gupta, H.V., **Wang, Y.H.**, Farmani, M.A.,Behrangi, A.,and Niu, G.Y. 2026. Improving Model Performance by Adapting the KGE Metric to Account for System Non-Stationarity. *arXiv preprint arXiv:2604.03906.* [Link](https://arxiv.org/abs/2604.03906)
 * [11] **Wang, Y.H.** , Yang, Y., Ciulla, F., Gupta, H.V. and Varadharajan, C. 2025. Towards CONUS-Wide ML-Augmented Conceptually-Interpretable Modeling of Catchment-Scale Precipitation-Storage-Runoff Dynamics. *arXiv preprint arXiv:2510.02605.* [Link](https://arxiv.org/abs/2510.02605)
 * [10] **Wang, Y.H.** and Gupta, H.V., 2025. Using Machine Learning to Discover Parsimonious and Physically-Interpretable Representations of Catchment-Scale Rainfall-Runoff Dynamics. *Water Resources Research, 61(12), p.e2025WR040178.* [Link](https://doi.org/10.1029/2025WR040178) 
 * [9] **Wang, Y.H.** and Gupta, H.V., 2024. Towards Interpretable Physical‐Conceptual Catchment‐Scale Hydrological Modeling Using the Mass‐Conserving‐Perceptron. *Water Resources Research, 60(10), p.e2024WR037224.* [Link](https://doi.org/10.1029/2024WR037224)
