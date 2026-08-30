@@ -149,7 +149,7 @@ Service
 
 Journal Review Service
 ======
-•	Cell Reports Sustainability (Since Aug 2026)
+* Cell Reports Sustainability (Since Aug 2026)
 * One Earth (Since May 2026)
 * Geophysical Research Letters (Since Apr 2026)
 * Hydrology and Earth System Sciences (Since Feb 2026)
@@ -168,7 +168,7 @@ Journal Review Service
 
 Conference Review Service
 ======
-•	Learning on Graphs Conference (2026)
-•	5th HydroML Symposium, The University of Texas at Austin (2026)
-•	3rd HydroML Symposium, Pacific Northwest National Laboratory (2024)
-•	1st HydroML Symposium, The Pennsylvania State University (2022)
+* Learning on Graphs Conference (2026)
+* 5th HydroML Symposium, The University of Texas at Austin (2026)
+* 3rd HydroML Symposium, Pacific Northwest National Laboratory (2024)
+* 1st HydroML Symposium, The Pennsylvania State University (2022)
