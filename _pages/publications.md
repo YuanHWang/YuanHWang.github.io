@@ -38,8 +38,8 @@ Newsletter
 
 Conference Presentations
 ======
-[51] **Wang, Y.H.**, Gupta, H.V,. and Vrugt, J.A,. (2026), “Recent Advances in the Development of the Mass-Conserving-Perceptron”, AGU Fall Meeting, Dec 7-11, San Francisco, CA. 
-[50] **Wang, Y.H.**, and Gupta, H.V. (2026), “Mass-Conserving-Ensemble-Perceptron (MCEnP): Unifying Conceptual Interpretability, Stochastic Process Representation, Architectural Diversity, and Uncertainty Quantification in Differentiable Catchment-Scale Hydrologic Modeling”, AGU Fall Meeting, Dec 7-11, San Francisco, CA. 
+* [51] **Wang, Y.H.**, Gupta, H.V,. and Vrugt, J.A,. (2026), “Recent Advances in the Development of the Mass-Conserving-Perceptron”, AGU Fall Meeting, Dec 7-11, San Francisco, CA. 
+* [50] **Wang, Y.H.**, and Gupta, H.V. (2026), “Mass-Conserving-Ensemble-Perceptron (MCEnP): Unifying Conceptual Interpretability, Stochastic Process Representation, Architectural Diversity, and Uncertainty Quantification in Differentiable Catchment-Scale Hydrologic Modeling”, AGU Fall Meeting, Dec 7-11, San Francisco, CA. 
 * [49] **Wang, Y.H.**, and Gupta, H.V. (2026), “Mass-Conserving-Ensemble-Perceptron (MCEnP): Toward a Differentiable Physical–Conceptual Framework for Stochastic Hydrologic Modeling at the Catchment Scale”, *5th HydroML-Symposium, May 19-21, Austin, TX* (Oral)
 * [48] Varadharajan, C., **Wang, Y.H.**, Liu, C., Falco., N., Dwivedi, D., Carroll, R., O’Ryan, D., Herzog, A., Beutler, C., Shirley, Austin., Sprenger, M., Christensen, J., and Williams, K. (2025), “Combining Machine Learning and Physically-based models to Identify Stream Intermittency in Mountainous Headwaters”, *AGU Fall Meeting, Dec 15-19, New Orleans, LA*
 * [47] Varadharajan, C., Willard, J., **Wang, Y.H.**, Ciulla, F., Ren, P., and Mahoney, M. (2025), “The power of many: machine learning ensembles to improve hydrologic predictions”, *AGU Fall Meeting, Dec 15-19, New Orleans, LA*
