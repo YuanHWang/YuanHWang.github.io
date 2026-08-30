@@ -23,14 +23,14 @@ Education
 
 Working (Research) Experiences
 ======
-* July 2024 - Present: Water Data Science Postdoctoral Fellow
-  * Lawrence Berkeley National Laboratory, Environmental Science Area, Climate and Ecosystem Sciences Division
-  * Mentor: *Dr. Charuleka Varadharajan*
-        
 * Aug 2023 - present: Research Scientist (Designated Campus Colleague)
   * The University of Arizona, Hydrology and Atmospheric Science
   * Instructor: *Dr. Hoshin V. Gupta*
-    
+
+* July 2024 - July 2026: Water Data Science Postdoctoral Fellow
+  * Lawrence Berkeley National Laboratory, Environmental Science Area, Climate and Ecosystem Sciences Division
+  * Mentor: *Dr. Charuleka Varadharajan*
+  
 * Aug 2023 - July 2024: Postdoctoral Research Associate
   * Oak Ridge National Laboratory, Environmental Science Division, Water Resource Science and Engineering Group
   * Mentor: *Dr. Sudershan Gangrade*
@@ -120,7 +120,7 @@ Skills
 * Platforms: Mac, Linux/Unix, Windows
 * Programming Language: FORTRAN, MATLAB, Python, shell, ncl, R, C++, Java, HTML
 * Land Models: Noah-MP, SUMMA
-* Deep Learning Library: Pytorch, Keras, Tensorflow, JAX, MATLAB
+* Deep Learning Library: Pytorch, Keras, Tensorflow, MATLAB
 
 License
 ======
@@ -147,8 +147,9 @@ Service
 * Planning Team Member: El Día del Agua y la Atmósfera, The Univerity of Arizona (2023)
 * Technical Committee Member: 1st HydroML Symposium, The Pennsylvania State University (2022)
 
-Review Service
+Journal Review Service
 ======
+•	Cell Reports Sustainability (Since Aug 2026)
 * One Earth (Since May 2026)
 * Geophysical Research Letters (Since Apr 2026)
 * Hydrology and Earth System Sciences (Since Feb 2026)
@@ -164,3 +165,10 @@ Review Service
 * Journal of Hydrometeorology (Since Sept 2022)
 * Water Resources Research (Since Oct 2020)
 * Journal of Hydrology (Since Apr 2017)
+
+Conference Review Service
+======
+•	Learning on Graphs Conference (2026)
+•	5th HydroML Symposium, The University of Texas at Austin (2026)
+•	3rd HydroML Symposium, Pacific Northwest National Laboratory (2024)
+•	1st HydroML Symposium, The Pennsylvania State University (2022)
