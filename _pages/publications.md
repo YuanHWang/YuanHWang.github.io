@@ -7,7 +7,7 @@ author_profile: true
 
 Peer-Reviewed Articles
 ======
-* [15] Jawad, M., Gupta, H.V., **Wang, Y.H.**, Farmani, M.A.,Behrangi, A.,and Niu, G.Y. 2026. AI-Augmented Catchment-Scale Hydrological Model Significantly Improves Streamflow Estimation in Arid Regions. *arXiv preprint arXiv:2604.03906.* [Link](https://library.cap-az.com/documents/education/2026-Award-for-Research-Jawad-Gupta-Wang-Farmani-Behrangi-Niu.pdf)
+* [15] Jawad, M., Gupta, H.V., **Wang, Y.H.**, Farmani, M.A.,Behrangi, A.,and Niu, G.Y. 2026. AI-Augmented Catchment-Scale Hydrological Model Significantly Improves Streamflow Estimation in Arid Regions. [Link](https://library.cap-az.com/documents/education/2026-Award-for-Research-Jawad-Gupta-Wang-Farmani-Behrangi-Niu.pdf)
 * [14] **Wang, Y.H.**, and Gupta, H.V. 2026. From Conceptual Hydrologic Models to Conceptually Interpretable Neural Networks: A Snow–Water Mass–Conserving–Perceptron Framework for Discovering Catchment-Scale Precipitation–Storage–Runoff Representations. *arXiv preprint arXiv:2607.26492.* [Link](http://arxiv.org/abs/2607.26492)
 * [13] Li, Z., Li, C., Shams, S., Wang, H., Yang, Q., Liu, Y., Lian, T., Lan, X., Zhou, S., Zhang, B., Barbhuiyal, S., Yan, S., Li, B., Hu, J., Wang, Y., Nahat, V., **Wang, Y.H.**, Chen, Y., Wang, J., and Hong, Y. 2026. HydroTuring: A Community Benchmark That Tests AI Hydrological Models Against Conservation Laws. *Manuscript submitted to Journal of Hydrology X.*
 * [12] Jawad, M., Gupta, H.V., **Wang, Y.H.**, Farmani, M.A.,Behrangi, A.,and Niu, G.Y. 2026. Improving Model Performance by Adapting the KGE Metric to Account for System Non-Stationarity. *arXiv preprint arXiv:2604.03906.* [Link](https://arxiv.org/abs/2604.03906)
