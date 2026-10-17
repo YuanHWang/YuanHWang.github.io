@@ -7,7 +7,6 @@ author_profile: true
 
 Peer-Reviewed Articles
 ======
-* [15] Jawad, M., Gupta, H.V., **Wang, Y.H.**, Farmani, M.A.,Behrangi, A.,and Niu, G.Y. 2026. AI-Augmented Catchment-Scale Hydrological Model Significantly Improves Streamflow Estimation in Arid Regions. [Link](https://library.cap-az.com/documents/education/2026-Award-for-Research-Jawad-Gupta-Wang-Farmani-Behrangi-Niu.pdf)
 * [14] **Wang, Y.H.**, and Gupta, H.V. 2026. From Conceptual Hydrologic Models to Conceptually Interpretable Neural Networks: A Snow–Water Mass–Conserving–Perceptron Framework for Discovering Catchment-Scale Precipitation–Storage–Runoff Representations. *arXiv preprint arXiv:2607.26492.* [Link](http://arxiv.org/abs/2607.26492)
 * [13] Li, Z., Li, C., Shams, S., Wang, H., Yang, Q., Liu, Y., Lian, T., Lan, X., Zhou, S., Zhang, B., Barbhuiyal, S., Yan, S., Li, B., Hu, J., Wang, Y., Nahat, V., **Wang, Y.H.**, Chen, Y., Wang, J., and Hong, Y. 2026. HydroTuring: A Community Benchmark That Tests AI Hydrological Models Against Conservation Laws. *Manuscript submitted to Journal of Hydrology X.*
 * [12] Jawad, M., Gupta, H.V., **Wang, Y.H.**, Farmani, M.A.,Behrangi, A.,and Niu, G.Y. 2026. Improving Model Performance by Adapting the KGE Metric to Account for System Non-Stationarity. *arXiv preprint arXiv:2604.03906.* [Link](https://arxiv.org/abs/2604.03906)
@@ -38,6 +37,10 @@ Newsletter
 ======
 * [1] **Wang, Y.H.**, March, 2023. Roots for Resilience (R4R)-A Fellow's Perspective, *Data Science Institute (Data 7), The  University of Arizona, Tucson, AZ.* [Link](https://datascience.arizona.edu/news/roots-resilience-r4r-fellows-perspective)
 
+Preprint
+======
+* [1] Jawad, M., Gupta, H.V., **Wang, Y.H.**, Farmani, M.A.,Behrangi, A.,and Niu, G.Y. AI-Augmented Catchment-Scale Hydrological Model Significantly Improves Streamflow Estimation in Arid Regions. [Link](https://library.cap-az.com/documents/education/2026-Award-for-Research-Jawad-Gupta-Wang-Farmani-Behrangi-Niu.pdf)
+  
 Conference Presentations
 ======
 * [51] **Wang, Y.H.**, Gupta, H.V,. and Vrugt, J.A,. (2026), “Recent Advances in the Development of the Mass-Conserving-Perceptron”, *AGU Fall Meeting, Dec 7-11, San Francisco, CA.* 
