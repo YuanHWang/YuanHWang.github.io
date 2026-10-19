@@ -36,10 +36,6 @@ Invited Talk
 Newsletter
 ======
 * [1] **Wang, Y.H.**, March, 2023. Roots for Resilience (R4R)-A Fellow's Perspective, *Data Science Institute (Data 7), The  University of Arizona, Tucson, AZ.* [Link](https://datascience.arizona.edu/news/roots-resilience-r4r-fellows-perspective)
-
-Preprint
-======
-* [1] Jawad, M., Gupta, H.V., **Wang, Y.H.**, Farmani, M.A.,Behrangi, A.,and Niu, G.Y. AI-Augmented Catchment-Scale Hydrological Model Significantly Improves Streamflow Estimation in Arid Regions. [Link](https://library.cap-az.com/documents/education/2026-Award-for-Research-Jawad-Gupta-Wang-Farmani-Behrangi-Niu.pdf)
   
 Conference Presentations
 ======
