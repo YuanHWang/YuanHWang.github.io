@@ -149,6 +149,7 @@ Service
 
 Journal Review Service
 ======
+* Journal of Hydrology X (Since Nov 2026)
 * Cell Reports Sustainability (Since Aug 2026)
 * One Earth (Since May 2026)
 * Geophysical Research Letters (Since Apr 2026)
